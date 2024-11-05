@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @Salahuddin835
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- <!DOCTYPE html>
 <html lang="bn">
 <head>
     <meta charset="UTF-8">
@@ -80,7 +72,7 @@
 
 <header>
     <h1>My Portfolio</h1>
-    <p>I'm a freelancer, a passionate digital marketeer, designer, creator, and creative lover</p>
+    <p>I'm a freelancer, a passionate digital marketeer, a designer, a creator, acreative lover</p>
 </header>
 
 <section class="about">
@@ -140,6 +132,12 @@
         <a href="https://linkedin.com" class="fa fa-linkedin" aria-hidden="true"></a>
         <!-- Add more social icons as needed -->
     </div>
+    <section class="contact">
+    <h2>Contact Me</h2>
+    <form id="contact-form">
+        <label for="client-name">Name:</label>
+        <input type="text" id="client-name" name="client-name" required>
+
 </footer>
 
 </body>
