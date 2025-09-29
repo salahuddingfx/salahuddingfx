@@ -12,7 +12,7 @@
 🌱 I’m currently learning Vue.js, PHP, Laravel, and Advanced Graphic Design  
 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/salahuddingfx?tab=repositories)  
 💬 Ask me about **HTML | CSS | JS | PHP | Laravel | Vue.js | Digital Marketing | Graphic Design**  
-📫 How to reach me: **salahuddinkadrappy@gmail.com**  
+📫 How to reach me: **salauddinkadrappy@gmail.com**  
 ⚡ Fun fact: Always coding, designing, and learning new tech 🚀  
 
 ---
