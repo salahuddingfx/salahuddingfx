@@ -4,8 +4,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Salah%20Uddin%20Kader&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
 
-
-
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Salah+Uddin+Kader;Full+Stack+Developer+|+UI/UX+Designer+|+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
@@ -245,6 +244,8 @@
   <img src="https://img.shields.io/badge/Made%20with-❤️-FF6B6B?style=for-the-badge" alt="Made with Love" />
   <img src="https://img.shields.io/badge/By-Salah%20Uddin%20Kader-8A2BE2?style=for-the-badge" alt="Made by Salah Uddin Kader" />
 </p>
+
+---
 
 <!-- Animated Footer Banner -->
 <div align="center">
