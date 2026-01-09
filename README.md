@@ -1,4 +1,3 @@
-
 <!-- Animated Header Banner -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Salah%20Uddin%20Kader&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" />
@@ -55,12 +54,7 @@
 <!-- Coding Activity Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=salahuddingfx&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=⏰%20Coding%20Activity" alt="Coding Activity Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahuddingfx&layout=donut&theme=radical&hide_border=true&langs_count=8&custom_title=💻%20Language%20Distribution" alt="Language Stats" />
-</p>
-
-<!-- Language Usage Over Time -->
-<p align="center">
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahuddingfx&layout=donut&theme=radical&hide_border=true&langs_count=8&custom_title=💻%20Language%20Distribution" alt="Language Stats" />
 </p>
 
 ---
@@ -135,12 +129,7 @@
 <!-- Comprehensive GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=salahuddingfx&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Journey" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahuddingfx&theme=radical&hide_border=true&stroke=8A2BE2&ring=8A2BE2&fire=FF6B6B&currStreakLabel=8A2BE2" alt="GitHub Streak" />
-</p>
-
-<!-- GitHub Streak Stats -->
-<p align="center">
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahuddingfx&theme=radical&hide_border=true&stroke=8A2BE2&ring=8A2BE2&fire=FF6B6B&currStreakLabel=8A2BE2" alt="GitHub Streak" />
 </p>
 
 <!-- Top Languages with Enhanced Design -->
