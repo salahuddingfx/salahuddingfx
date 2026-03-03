@@ -4,7 +4,23 @@
 
 ---
 
-## 👨‍💻 Welcome to My Digital Space
+## � Live Profile Stats
+
+<p align="center">
+  <a href="https://github.com/salahuddingfx">
+    <img src="https://komarev.com/ghpvc/?username=salahuddingfx&label=👀+Profile+Views&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/salahuddingfx?tab=followers">
+    <img src="https://img.shields.io/github/followers/salahuddingfx?label=💙+Followers&style=for-the-badge&color=7AA2F7" alt="Followers" />
+  </a>
+  <a href="https://github.com/salahuddingfx">
+    <img src="https://img.shields.io/github/stars/salahuddingfx?label=⭐+Stars&style=for-the-badge&color=9EEC6A" alt="Stars" />
+  </a>
+</p>
+
+---
+
+## �👨‍💻 Welcome to My Digital Space
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=✨+Full+Stack+Developer+%26+UI%2FUX+Designer;🚀+Crafting+Modern+Web+Solutions;💻+Clean+Code+%26+Beautiful+Design;🎯+Always+Learning+%26+Growing" alt="Typing Animation" />
@@ -16,7 +32,7 @@
 
 ---
 
-## 🐍 Contribution Snake Game - Watch My Growth!
+## 🐍 Contribution Snake Game - Watch My Growth
 
 <div align="center" style="margin: 20px 0; padding: 20px; background: linear-gradient(135deg, rgba(122,162,247,0.1) 0%, rgba(158,206,106,0.1) 100%); border-radius: 15px; border: 2px solid #7AA2F7;">
   <p><strong>🎮 GitHub Contribution Snake Animation</strong></p>
@@ -30,7 +46,7 @@
 
 <div align="center" style="margin: 20px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=salahuddingfx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9" alt="GitHub Stats" style="max-width: 100%; border-radius: 10px;" />
-  
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahuddingfx&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" style="max-width: 100%; border-radius: 10px; margin-top: 20px;" />
 </div>
 
@@ -52,6 +68,7 @@
 I'm a creative developer obsessed with crafting **digital experiences** that blend aesthetics with functionality. With a passion for turning complex problems into elegant solutions, I specialize in building web applications that users love.
 
 ### 🎯 What I Do
+
 - 🚀 **Build Modern Applications** - Crafting scalable, maintainable code with architecture that grows with your needs
 - 🎨 **Design Beautiful Interfaces** - Creating intuitive UI/UX that users find delightful to interact with
 - 💡 **Solve Creative Problems** - Thinking outside the box to find innovative solutions
@@ -59,11 +76,13 @@ I'm a creative developer obsessed with crafting **digital experiences** that ble
 - 🤝 **Collaborate Effectively** - Working seamlessly with teams to bring visions to life
 
 ### 💡 My Philosophy
+
 > *"Great code is like great design - it's invisible to the user but makes their life better"*
 
 I believe in writing clean, well-documented code that other developers love reading. Every project is an opportunity to create something that matters.
 
 ### 🎓 Continuous Learning
+
 Always exploring new technologies, frameworks, and design patterns. Whether it's React, Vue, Node.js, Python, or the latest web standards - I'm committed to staying ahead of the curve.
 
 **📧 Email:** salauddinkadrappy@gmail.com  
@@ -75,16 +94,19 @@ Always exploring new technologies, frameworks, and design patterns. Whether it's
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap" width="240" alt="Frontend Stack" />
 </p>
 
-### Backend  
+### Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django" width="240" alt="Backend Stack" />
 </p>
 
 ### Databases & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,git,vscode" width="200" alt="Database & Tools" />
 </p>
@@ -94,18 +116,22 @@ Always exploring new technologies, frameworks, and design patterns. Whether it's
 ## 🚀 Featured Projects
 
 ### 🛍️ E-Commerce Platform
+
 **Stack:** Laravel • Vue.js • MongoDB  
 Full-featured e-commerce with payment integration and admin dashboard
 
 ### 🎮 Mobile Game
+
 **Stack:** React Native • Node.js  
 Engaging mobile game with real-time multiplayer capabilities
 
 ### 🎨 Creative Portfolio
+
 **Stack:** Vue.js • Tailwind CSS • Figma  
 Modern portfolio website showcasing design and development work
 
 ### 🤖 AI Chatbot
+
 **Stack:** Python • Django • TensorFlow  
 Intelligent chatbot with natural language processing
 
@@ -133,6 +159,59 @@ Intelligent chatbot with natural language processing
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-FF6B6B?style=for-the-badge" />
+## 💻 Languages & Tools
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahuddingfx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9" alt="Top Languages" style="max-width: 100%; border-radius: 10px;" />
 </div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salahuddingfx&theme=tokyo-night&hide_border=true&bg_color=0d1117&text_color=c9d1d9&area=true&point=7aa2f7&line=7aa2f7" alt="Activity Graph" style="max-width: 100%; border-radius: 10px;" />
+</div>
+
+---
+
+## ✨ Quick Summary
+
+- 💼 **Experience:** Less than 1 year in Full Stack Development
+- 📦 **Repositories:** 31 active projects on GitHub
+- 🎓 **Focus:** Building scalable web applications with modern tech
+- 🌟 **Passion:** Creating beautiful interfaces with clean code
+- 🚀 **Currently:** Available for exciting projects & collaborations
+- 📚 **Learning:** Latest web technologies & best practices
+
+---
+
+## 📞 Let's Collaborate!
+
+I'm always interested in working on interesting projects. Whether you need a full-stack developer, UI/UX designer, or want to discuss tech - feel free to reach out!
+
+**Quick Links:**
+- 📧 [Email Me](mailto:salauddinkadrappy@gmail.com)
+- 💼 [LinkedIn Profile](https://linkedin.com/in/salahuddingfx)
+- 🎨 [Portfolio Website](https://salahuddin.codes)
+- 💬 [Let's Chat on Twitter](https://twitter.com/salahuddingfx)
+
+---
+
+<div align="center" style="margin: 30px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=16&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Feel+free+to+connect+and+collaborate;Happy+Coding+%F0%9F%9A%80" alt="Closing Message" />
+</div>
+
+---
+
+<div align="center" style="margin: 20px 0; padding: 20px; background: linear-gradient(135deg, rgba(122,162,247,0.1) 0%, rgba(158,206,106,0.1) 100%); border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-FF6B6B?style=for-the-badge" alt="Made with Love" />
+  
+  <img src="https://img.shields.io/badge/By-Salah%20Uddin%20Kader-7AA2F7?style=for-the-badge" alt="Creator" />
+  
+  <img src="https://img.shields.io/badge/Updated-March%202026-9EEC6A?style=for-the-badge" alt="Last Update" />
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,24,28&height=100&section=footer&animation=fadeIn" />
