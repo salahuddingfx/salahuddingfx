@@ -8,16 +8,17 @@
 
 <p align="center">
   <a href="https://github.com/salahuddingfx">
-    <img src="https://komarev.com/ghpvc/?username=salahuddingfx&label=👀+Profile+Views&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=salahuddingfx&label=Profile+Views&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
   </a>
+
   <a href="https://github.com/salahuddingfx?tab=followers">
-    <img src="https://img.shields.io/github/followers/salahuddingfx?label=💙+Followers&style=for-the-badge&color=7AA2F7" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/salahuddingfx?label=Followers&style=for-the-badge&color=7AA2F7" alt="Followers" />
   </a>
-  <a href="https://github.com/salahuddingfx">
-    <img src="https://img.shields.io/github/stars/salahuddingfx?label=⭐+Stars&style=for-the-badge&color=9EEC6A" alt="Stars" />
+
+  <a href="https://github.com/salahuddingfx?tab=repositories">
+    <img src="https://img.shields.io/github/stars/salahuddingfx?affiliations=OWNER&style=for-the-badge&color=9EEC6A&label=Total+Stars" alt="Total Stars" />
   </a>
 </p>
-
 ---
 
 ## �👨‍💻 Welcome to My Digital Space
