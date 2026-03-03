@@ -162,10 +162,9 @@ Intelligent chatbot with natural language processing
 
 ## 💻 Languages & Tools
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahuddingfx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9" alt="Top Languages" style="max-width: 100%; border-radius: 10px;" />
-</div>
-
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=salahuddingfx&show_icons=true&theme=radical" />
+</p>
 ---
 
 ## 📈 Activity Graph
