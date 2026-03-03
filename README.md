@@ -1,5 +1,46 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Salah%20Uddin%20Kader&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,24,28&height=220&section=header&text=Salah%20Uddin%20Kader&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40" />
+</div>
+
+---
+
+## 👨‍💻 Welcome to My Digital Space
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=✨+Full+Stack+Developer+%26+UI%2FUX+Designer;🚀+Crafting+Modern+Web+Solutions;💻+Clean+Code+%26+Beautiful+Design;🎯+Always+Learning+%26+Growing" alt="Typing Animation" />
+</p>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Developer Avatar" width="200" style="border-radius: 50%; border: 3px solid #7AA2F7;" />
+</div>
+
+---
+
+## 🐍 Contribution Snake Game - Watch My Growth!
+
+<div align="center" style="margin: 20px 0; padding: 20px; background: linear-gradient(135deg, rgba(122,162,247,0.1) 0%, rgba(158,206,106,0.1) 100%); border-radius: 15px; border: 2px solid #7AA2F7;">
+  <p><strong>🎮 GitHub Contribution Snake Animation</strong></p>
+  <img src="https://raw.githubusercontent.com/salahuddingfx/salahuddingfx/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="max-width: 100%; border-radius: 10px;" />
+  <p style="font-size: 13px; margin-top: 10px; color: #7AA2F7;"><em>My contributions visualized as a snake eating through my commit history! 🐍</em></p>
+</div>
+
+---
+
+## 📊 Contribution Stats & Live Activity
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=salahuddingfx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9" alt="GitHub Stats" style="max-width: 100%; border-radius: 10px;" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahuddingfx&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" style="max-width: 100%; border-radius: 10px; margin-top: 20px;" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements & Trophies
+
+<div align="center" style="margin: 20px 0; padding: 20px; background: linear-gradient(135deg, rgba(158,206,106,0.1) 0%, rgba(247,118,142,0.1) 100%); border-radius: 15px;">
+  <p><strong>🎖️ My GitHub Trophy Collection</strong></p>
+  <img src="https://github-profile-trophy.vercel.app/?username=salahuddingfx&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=5&rank=SSS,SS,S,AAA,AA" alt="GitHub Trophies" style="max-width: 100%;" />
 </div>
 
 ---
@@ -35,25 +76,6 @@ Full Stack Developer & UI/UX Designer from **Cox's Bazar, Bangladesh**
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,git,vscode" width="200" alt="Database & Tools" />
 </p>
-
-
----
-
-## 🎮 Contribution Snake Game
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/salahuddingfx/salahuddingfx/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="max-width: 100%;" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salahuddingfx&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" style="max-width: 100%;" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahuddingfx&theme=radical&hide_border=true" alt="GitHub Streak" style="max-width: 100%;" />
-</div>
 
 ---
 
