@@ -186,6 +186,52 @@ Intelligent chatbot with natural language processing
 
 ---
 
+## 🎯 2026 Goals Tracker
+
+<div align="center">
+  <table>
+    <tr>
+      <td>🚀 Launch 3 Production Projects</td>
+      <td>🟩🟩🟩⬜⬜ 60%</td>
+    </tr>
+    <tr>
+      <td>🧠 Master System Design Fundamentals</td>
+      <td>🟩🟩⬜⬜⬜ 40%</td>
+    </tr>
+    <tr>
+      <td>🤝 Contribute to Open Source Weekly</td>
+      <td>🟩🟩🟩🟩⬜ 80%</td>
+    </tr>
+    <tr>
+      <td>✍️ Publish Technical Articles</td>
+      <td>🟩⬜⬜⬜⬜ 20%</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎧 Coding Vibes
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus%20Mode-Deep%20Work-7AA2F7?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playlist-LoFi%20%2B%20Synthwave-9EEC6A?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Beverage-Coffee%20%E2%98%95-F7768E?style=for-the-badge" />
+</p>
+
+<p align="center"><em>Building calm, thoughtful products—one commit at a time.</em></p>
+
+---
+
+## 🧩 Fun Developer Facts
+
+- 🌙 Most productive coding hours: **Late evening to midnight**
+- 🛠️ Favorite workflow: **Design in Figma → Build in code → Refine with user feedback**
+- 🐛 Debugging superpower: **Rubber-duck + breakpoints + patience**
+- 🧪 Current experiments: **AI-assisted UX, micro-interactions, and performance tuning**
+
+---
+
 ## 📞 Let's Collaborate!
 
 I'm always interested in working on interesting projects. Whether you need a full-stack developer, UI/UX designer, or want to discuss tech - feel free to reach out!
