@@ -31,6 +31,28 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Developer Avatar" width="200" style="border-radius: 50%; border: 3px solid #7AA2F7;" />
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=700&color=9EEC6A&center=true&vCenter=true&width=900&lines=Turning+ideas+into+products+people+actually+love;Designing+with+empathy%2C+building+with+discipline;Shipping+clean+code%2C+one+feature+at+a+time;Learning+fast%2C+iterating+faster" alt="Secondary Typing Animation" />
+</p>
+
+---
+
+## 🧭 Developer Command Center
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-7AA2F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design-UI%2FUX%20Focused-9EEC6A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Timezone-UTC%2B6-F7768E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-4CAF50?style=for-the-badge" />
+</p>
+
+```txt
+> Booting salahuddingfx.exe...
+> Initializing creativity module ██████████ 100%
+> Loading stack: React • Vue • Laravel • Node • Python
+> Mission: Build useful products that feel magical to use ✨
+```
+
 ---
 
 ## 🐍 Contribution Snake Game - Watch My Growth
@@ -114,6 +136,33 @@ Always exploring new technologies, frameworks, and design patterns. Whether it's
 
 ---
 
+## 🧠 Skill Radar (What I Bring to a Team)
+
+| Area | Focus Level | Notes |
+|---|---|---|
+| Frontend Engineering | ⭐⭐⭐⭐⭐ | Pixel-perfect interfaces, reusable components, smooth UX |
+| Backend Development | ⭐⭐⭐⭐☆ | APIs, auth flows, business logic, performance thinking |
+| UI/UX Design | ⭐⭐⭐⭐⭐ | User-first journeys, wireframing, visual systems |
+| Problem Solving | ⭐⭐⭐⭐⭐ | Break down complex requirements into clear delivery steps |
+| Collaboration | ⭐⭐⭐⭐☆ | Async communication, documentation, clean handoffs |
+
+---
+
+## ⚒️ Creative Stack Wall
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vue%20%7C%20TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Node%20%7C%20Laravel%20%7C%20Django-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL%20%7C%20MongoDB-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Figma%20%7C%20Tailwind-9C27B0?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" alt="Creative coding gif" />
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🛍️ E-Commerce Platform
@@ -135,6 +184,22 @@ Modern portfolio website showcasing design and development work
 
 **Stack:** Python • Django • TensorFlow  
 Intelligent chatbot with natural language processing
+
+---
+
+## 🧪 Labs & Experiments
+
+<details>
+  <summary><strong>✨ Click to open my experiment backlog</strong></summary>
+  <br/>
+
+- ⚡ **Micro-interactions Kit** — Building tiny UI animations that make interfaces feel alive.
+- 🧭 **UX Case Notes** — Reverse-engineering great user flows from top products.
+- 🤖 **AI Pair Programming Workflow** — Testing prompts and coding patterns for faster shipping.
+- 📦 **Reusable Component Library** — Creating a personal design/development starter toolkit.
+- 🚀 **Performance Playground** — Measuring and optimizing Core Web Vitals on sample apps.
+
+</details>
 
 ---
 
@@ -186,9 +251,88 @@ Intelligent chatbot with natural language processing
 
 ---
 
+## 🎯 2026 Goals Tracker
+
+<div align="center">
+  <table>
+    <tr>
+      <td>🚀 Launch 3 Production Projects</td>
+      <td>🟩🟩🟩⬜⬜ 60%</td>
+    </tr>
+    <tr>
+      <td>🧠 Master System Design Fundamentals</td>
+      <td>🟩🟩⬜⬜⬜ 40%</td>
+    </tr>
+    <tr>
+      <td>🤝 Contribute to Open Source Weekly</td>
+      <td>🟩🟩🟩🟩⬜ 80%</td>
+    </tr>
+    <tr>
+      <td>✍️ Publish Technical Articles</td>
+      <td>🟩⬜⬜⬜⬜ 20%</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🗺️ Project Adventure Map
+
+```mermaid
+flowchart LR
+    A[Idea Spark ✨] --> B[UX Sketch 🎨]
+    B --> C[Prototype ⚙️]
+    C --> D[Build 🚀]
+    D --> E[Test & Refine 🔬]
+    E --> F[Launch 🌍]
+    F --> G[Collect Feedback 💬]
+    G --> H[Improve v2 🔁]
+```
+
+---
+
+## 🎧 Coding Vibes
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus%20Mode-Deep%20Work-7AA2F7?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playlist-LoFi%20%2B%20Synthwave-9EEC6A?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Beverage-Coffee%20%E2%98%95-F7768E?style=for-the-badge" />
+</p>
+
+<p align="center"><em>Building calm, thoughtful products—one commit at a time.</em></p>
+
+---
+
+## 🧩 Fun Developer Facts
+
+- 🌙 Most productive coding hours: **Late evening to midnight**
+- 🛠️ Favorite workflow: **Design in Figma → Build in code → Refine with user feedback**
+- 🐛 Debugging superpower: **Rubber-duck + breakpoints + patience**
+- 🧪 Current experiments: **AI-assisted UX, micro-interactions, and performance tuning**
+
+### 💭 Interesting Thoughts I Build By
+
+> "If users need a manual, the design can still be kinder."
+>
+> "Speed matters—but confidence in every release matters more."
+>
+> "The best interfaces feel obvious only *after* a lot of thoughtful iteration."
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220" alt="Thinking gif" />
+</div>
+
+---
+
 ## 📞 Let's Collaborate!
 
 I'm always interested in working on interesting projects. Whether you need a full-stack developer, UI/UX designer, or want to discuss tech - feel free to reach out!
+
+<p>
+  <img src="https://img.shields.io/badge/Available%20for-Freelance%20Projects-00C853?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-2962FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interested%20in-Product%20Teams-FF6D00?style=flat-square" />
+</p>
 
 **Quick Links:**
 - 📧 [Email Me](mailto:salauddinkadrappy@gmail.com)
@@ -201,6 +345,10 @@ I'm always interested in working on interesting projects. Whether you need a ful
 <div align="center" style="margin: 30px 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=16&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Feel+free+to+connect+and+collaborate;Happy+Coding+%F0%9F%9A%80" alt="Closing Message" />
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2500&pause=700&color=F7768E&center=true&vCenter=true&width=900&lines=Open+for+creative+products+and+meaningful+collaborations;Let's+turn+complex+problems+into+beautiful+solutions;See+you+in+the+next+commit+%F0%9F%91%8B" alt="Final Typing Animation" />
+</p>
 
 ---
 
