@@ -30,25 +30,13 @@
 
 ---
 
-## 👨‍💻 Welcome to My Digital Space
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=✨+Full+Stack+Developer+%26+UI%2FUX+Designer;🚀+Crafting+Modern+Web+Solutions;💻+Clean+Code+%26+Beautiful+Design;🎯+Always+Learning+%26+Growing" alt="Typing Animation" />
-</p>
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Developer Avatar" width="200" style="border-radius: 50%; border: 3px solid #7AA2F7;" />
-</div>
-
----
-
-## 🐍 Contribution Snake Game - Watch My Growth
-
+## 🐍 Contribution Evolution
 <div align="center" style="margin: 20px 0; padding: 20px; background: linear-gradient(135deg, rgba(122,162,247,0.1) 0%, rgba(158,206,106,0.1) 100%); border-radius: 15px; border: 2px solid #7AA2F7;">
-  <p><strong>🎮 GitHub Contribution Snake Animation</strong></p>
+  <p><strong>🎮 GitHub Contribution Snake</strong></p>
   <img src="https://raw.githubusercontent.com/salahuddingfx/salahuddingfx/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="max-width: 100%; border-radius: 10px;" />
-  <p style="font-size: 13px; margin-top: 10px; color: #7AA2F7;"><em>My contributions visualized as a snake eating through my commit history! 🐍</em></p>
+  <p style="font-size: 13px; margin-top: 10px; color: #7AA2F7;"><em>Watch the snake eat through my commit history! 🐍</em></p>
 </div>
+
 
 ---
 
@@ -88,8 +76,6 @@
 
 ---
 
----
-
 ## 🛠️ Tech Universe
 <div align="center">
   <table>
@@ -113,6 +99,15 @@
 </div>
 
 ---
+
+## 🛠️ My Favorite Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
@@ -158,11 +153,12 @@ Intelligent chatbot with natural language processing
 
 ---
 
-## 💻 Languages & Tools
+## 📊 Language & Skills Breakdown
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahuddingfx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=salahuddingfx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9" alt="GitHub Stats" />
+</div>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=salahuddingfx&show_icons=true&theme=radical" />
-</p>
 ---
 
 ## 📈 Activity Graph
@@ -256,6 +252,13 @@ Intelligent chatbot with natural language processing
 
 ---
 
+## 💡 Random Dev Wisdom
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+</div>
+
+---
+
 ## 🤝 Support & Collaborate
 <p align="center">
   <a href="https://www.buymeacoffee.com/salahuddingfx">
@@ -273,6 +276,20 @@ Intelligent chatbot with natural language processing
 - 💬 [Let's Chat on X](https://twitter.com/salahuddingfx)
 
 ---
+
+## 📅 My Typical Coding Hours
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>Monday - Friday</strong></td>
+      <td><strong>Saturday - Sunday</strong></td>
+    </tr>
+    <tr>
+      <td><code>09:00 AM - 02:00 AM</code> (Hyperfocus)</td>
+      <td><code>10:00 AM - 12:00 AM</code> (Creative Mode)</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
