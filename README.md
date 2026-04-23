@@ -63,11 +63,34 @@
 
 ---
 
-## 🧔 About Me
-| **Quick Bio** | **Core Beliefs** |
-| :--- | :--- |
-| **Full Stack Developer & UI/UX Designer** from **Cox's Bazar, Bangladesh** 🌴. I'm a creative developer obsessed with crafting **digital experiences** that blend aesthetics with functionality. | > *"Great code is like great design - it's invisible to the user but makes their life better."* I believe in clean code that others love reading. |
-| **🚀 Mission:** Building scalable, maintainable architecture that grows with your needs. | **🎨 Vision:** Creating intuitive UI/UX that users find delightful to interact with. |
+## 🧔 The Architect Behind the Code
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🚀 Beyond the Pixels</h3>
+        <p>I'm a <strong>Full Stack Architect</strong> based in the tropical vibes of <strong>Cox's Bazar, Bangladesh</strong> 🌴. I don't just build apps; I craft <strong>digital experiences</strong> where pixel-perfect design meets high-performance logic.</p>
+        <p>Currently obsessed with <strong>Next.js, AI-driven UX, and Scalable Architectures.</strong></p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🎨 Core Philosophy</h3>
+        <blockquote>
+          <em>"Great code is like great design—it's invisible to the user but makes their journey effortless."</em>
+        </blockquote>
+        <p>I believe in <strong>Minimalism, Clean Architecture,</strong> and writing code that feels like poetry to other developers.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Mission-Building%20Resilient%20Systems-7AA2F7?style=for-the-badge" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Vision-Human--Centric%20Interfaces-9EEC6A?style=for-the-badge" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 🛠️ My Workspace
 <div align="center">
