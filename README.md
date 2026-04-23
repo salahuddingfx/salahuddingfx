@@ -118,23 +118,41 @@
 
 ---
 
-## 🛠️ Tech Universe
+## 🛠️ The Tech Universe (Core Skills)
 <div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" width="250" alt="MERN Stack" />
+        <br />
+        <sub><b>Primary: MERN Stack</b></sub>
+      </td>
+    </tr>
+  </table>
+  <br />
   <table>
     <tr>
-      <td align="center"><strong>Frontend ✨</strong></td>
-      <td align="center"><strong>Backend ⚙️</strong></td>
-      <td align="center"><strong>Design & Tools 🎨</strong></td>
+      <td align="center"><strong>Frontend Engineering 🎨</strong></td>
+      <td align="center"><strong>Backend Architecture ⚙️</strong></td>
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass" width="180" alt="Frontend" />
+        <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts,redux,sass,framer,bootstrap" width="220" alt="Frontend" />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,php,laravel,python" width="180" alt="Backend" />
+        <img src="https://skillicons.dev/icons?i=firebase,mysql,postgresql,prisma,laravel,php,python" width="220" alt="Backend" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Design & Creative 🎭</strong></td>
+      <td align="center"><strong>DevOps & Tools 🔧</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae" width="200" alt="Design" />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=figma,ps,ai,git,docker,vscode,postman,vercel" width="180" alt="Tools" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify" width="200" alt="Tools" />
       </td>
     </tr>
   </table>
@@ -155,25 +173,40 @@
 
 ## 🚀 Featured Projects
 
-### 🛍️ E-Commerce Platform
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="top">
+        <h3>📓 NoteSphere</h3>
+        <p><strong>MERN Academic Hub</strong></p>
+        <p>A comprehensive platform for sharing and managing notes with AI-driven summaries, premium UI, and academic leagues.</p>
+        <p><em>Stack: MongoDB • Express • React • Node.js</em></p>
+      </td>
+      <td width="50%" align="top">
+        <h3>⚔️ CMPI-TechForge</h3>
+        <p><strong>MERN Community Platform</strong></p>
+        <p>A robust technical community for developers and students to collaborate, share resources, and showcase innovation.</p>
+        <p><em>Stack: MongoDB • Express • React • Node.js</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="top">
+        <h3>🛍️ RongRani</h3>
+        <p><strong>Premium MERN E-Commerce</strong></p>
+        <p>A full-featured e-commerce solution with dynamic category imagery, payment integration, and real-time inventory.</p>
+        <p><em>Stack: MongoDB • Express • React • Node.js</em></p>
+      </td>
+      <td width="50%" align="top">
+        <h3>🎨 DesignStudio</h3>
+        <p><strong>UI/UX Showcase</strong></p>
+        <p>A specialized gallery of modern UI components and creative design layouts pushed to production standards.</p>
+        <p><em>Stack: React • Tailwind CSS • Framer Motion</em></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-**Stack:** Laravel • Vue.js • MongoDB  
-Full-featured e-commerce with payment integration and admin dashboard
-
-### 🎮 Mobile Game
-
-**Stack:** React Native • Node.js  
-Engaging mobile game with real-time multiplayer capabilities
-
-### 🎨 Creative Portfolio
-
-**Stack:** Vue.js • Tailwind CSS • Figma  
-Modern portfolio website showcasing design and development work
-
-### 🤖 AI Chatbot
-
-**Stack:** Python • Django • TensorFlow  
-Intelligent chatbot with natural language processing
+---
 
 ---
 
@@ -242,25 +275,31 @@ Intelligent chatbot with natural language processing
 ## 🎯 2026 Goals Tracker
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td>🚀 Launch 3 Production Projects</td>
-      <td>🟩🟩🟩⬜⬜ 60%</td>
+      <td align="left">🚀 **Launch 5 Production Projects**</td>
+      <td align="right">🟩🟩🟩🟩⬜ 80%</td>
     </tr>
     <tr>
-      <td>🧠 Master System Design Fundamentals</td>
-      <td>🟩🟩⬜⬜⬜ 40%</td>
+      <td align="left">🧠 **Master Advanced System Design**</td>
+      <td align="right">🟩🟩🟩⬜⬜ 60%</td>
     </tr>
     <tr>
-      <td>🤝 Contribute to Open Source Weekly</td>
-      <td>🟩🟩🟩🟩⬜ 80%</td>
+      <td align="left">🤝 **Open Source Contributions**</td>
+      <td align="right">🟩🟩🟩🟩⬜ 80%</td>
     </tr>
     <tr>
-      <td>✍️ Publish Technical Articles</td>
-      <td>🟩⬜⬜⬜⬜ 20%</td>
+      <td align="left">✍️ **Technical Blogging**</td>
+      <td align="right">🟩🟩⬜⬜⬜ 40%</td>
+    </tr>
+    <tr>
+      <td align="left">🤖 **AI Workflow Integration**</td>
+      <td align="right">🟩🟩🟩🟩🟩 100%</td>
     </tr>
   </table>
 </div>
+
+---
 
 ---
 
@@ -278,9 +317,9 @@ Intelligent chatbot with natural language processing
 
 ## 🧠 Dev Insights & Philosophy
 <div align="center">
-  <img src="https://img.shields.io/badge/Workflow-Figma%20%E2%9E%94%20Code-7AA2F7?style=for-the-badge&logo=figma" />
-  <img src="https://img.shields.io/badge/Strategy-Mobile%20First-9EEC6A?style=for-the-badge&logo=pwa" />
-  <img src="https://img.shields.io/badge/Mindset-Always%20Improving-F7768E?style=for-the-badge&logo=gitbook" />
+  <img src="https://img.shields.io/badge/Workflow-Figma%20%E2%9E%94%20MERN-7AA2F7?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/Standard-Clean%20Code-9EEC6A?style=for-the-badge&logo=prettier" />
+  <img src="https://img.shields.io/badge/Strategy-Architecture%20First-F7768E?style=for-the-badge&logo=diagrams.net" />
 </div>
 
 > *"Debugging is like being the detective in a crime movie where you are also the murderer."* 🕵️‍♂️
@@ -288,9 +327,9 @@ Intelligent chatbot with natural language processing
 ---
 
 ## 🧩 The Human Side
-- 🌙 **Peak Productivity:** 9 PM - 2 AM (The silent hours)
-- 🧪 **Currently Exploring:** AI-driven UI transitions & Web3
-- 🎮 **Beyond Code:** Graphic Design, Photography, and exploring nature
+- 🌙 **Peak Productivity:** 9 PM - 2 AM (The silent hours of innovation)
+- 🧪 **Currently Exploring:** AI-driven UI transitions, Web3, and Micro-interactions
+- 🎨 **Beyond Code:** Professional Graphic Design, Photography, and exploring nature's aesthetics
 
 ---
 
