@@ -53,7 +53,15 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=salahuddingfx&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=5&rank=SSS,SS,S,AAA,AA" alt="GitHub Trophies" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salahuddingfx&theme=tokyonight" alt="Profile Details" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salahuddingfx&theme=tokyonight" alt="Commit Languages" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salahuddingfx&theme=tokyonight" alt="Overall Stats" />
       </td>
     </tr>
   </table>
