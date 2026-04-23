@@ -134,40 +134,49 @@
 
 ---
 
-## 🛠️ The Tech Universe (Core Skills)
+## 🛠️ The Tech Universe (Full Stack Mastery)
+
 <div align="center">
+  <!-- Core & MERN -->
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" width="250" alt="MERN Stack" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs" width="350" alt="Core Stack" />
         <br />
-        <sub><b>Primary: MERN Stack</b></sub>
+        <sub><b>Core Languages & MERN Stack</b></sub>
       </td>
     </tr>
   </table>
   <br />
+
+  <!-- Categorized Skills -->
   <table>
     <tr>
-      <td align="center"><strong>Frontend Engineering 🎨</strong></td>
-      <td align="center"><strong>Backend Architecture ⚙️</strong></td>
+      <td align="center"><strong>Frontend Engineering ✨</strong></td>
+      <td align="center"><strong>Backend & Systems ⚙️</strong></td>
     </tr>
     <tr>
-      <td>
-        <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts,redux,sass,framer,bootstrap" width="220" alt="Frontend" />
+      <td align="top">
+        <img src="https://skillicons.dev/icons?i=nextjs,tailwind,redux,sass,framer,bootstrap" width="220" alt="Frontend" />
+        <br />
+        <!-- UI Libraries with Badges -->
+        <img src="https://img.shields.io/badge/Headless%20UI-66E3FF?style=flat-square&logo=headlessui&logoColor=black" />
+        <img src="https://img.shields.io/badge/daisyUI-5AD7E4?style=flat-square&logo=daisyui&logoColor=black" />
+        <img src="https://img.shields.io/badge/Shadcn%20UI-000000?style=flat-square&logo=shadcnui&logoColor=white" />
       </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=firebase,mysql,postgresql,prisma,laravel,php,python" width="220" alt="Backend" />
+      <td align="top">
+        <img src="https://skillicons.dev/icons?i=python,django,php,laravel,firebase,mysql,postgresql,prisma" width="220" alt="Backend" />
       </td>
     </tr>
     <tr>
-      <td align="center"><strong>Design & Creative 🎭</strong></td>
+      <td align="center"><strong>Design & Creative 🎨</strong></td>
       <td align="center"><strong>DevOps & Tools 🔧</strong></td>
     </tr>
     <tr>
-      <td>
+      <td align="top">
         <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae" width="200" alt="Design" />
       </td>
-      <td>
+      <td align="top">
         <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify" width="200" alt="Tools" />
       </td>
     </tr>
