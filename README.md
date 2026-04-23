@@ -1,6 +1,32 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,24,28&height=220&section=header&text=Salah%20Uddin%20Kader&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,24,28&height=250&section=header&text=Salah%20Uddin%20Kader&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40" />
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=✨+Full+Stack+Developer+%26+UI%2FUX+Designer;🚀+Crafting+Modern+Web+Solutions;💻+Clean+Code+%26+Beautiful+Design;🎯+Always+Learning+%26+Growing" alt="Typing Animation" />
+</div>
+
+---
+
+## ⚡ Quick Dashboard
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building%20Something%20Great-9EEC6A?style=for-the-badge&logo=rocket" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-System%20Design-7AA2F7?style=for-the-badge&logo=visual-studio-code" alt="Focus" />
+  <img src="https://img.shields.io/badge/Energy-Coffee%20Powered-F7768E?style=for-the-badge&logo=coffeescript" alt="Energy" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/salahuddingfx">
+    <img src="https://komarev.com/ghpvc/?username=salahuddingfx&label=Profile+Views&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/salahuddingfx?tab=followers">
+    <img src="https://img.shields.io/github/followers/salahuddingfx?label=Followers&style=for-the-badge&color=7AA2F7" alt="Followers" />
+  </a>
+  <a href="https://github.com/salahuddingfx?tab=repositories">
+    <img src="https://img.shields.io/github/stars/salahuddingfx?affiliations=OWNER&style=for-the-badge&color=9EEC6A&label=Total+Stars" alt="Total Stars" />
+  </a>
+</p>
 
 ---
 
@@ -43,74 +69,67 @@
 
 ---
 
-## 📊 Contribution Stats & Live Activity
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=salahuddingfx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9" alt="GitHub Stats" style="max-width: 100%; border-radius: 10px;" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahuddingfx&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" style="max-width: 100%; border-radius: 10px; margin-top: 20px;" />
+## 📊 Performance Metrics
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=salahuddingfx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahuddingfx&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=salahuddingfx&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=5&rank=SSS,SS,S,AAA,AA" alt="GitHub Trophies" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🏆 GitHub Achievements & Trophies
+---
 
-<div align="center" style="margin: 20px 0; padding: 20px; background: linear-gradient(135deg, rgba(158,206,106,0.1) 0%, rgba(247,118,142,0.1) 100%); border-radius: 15px;">
-  <p><strong>🎖️ My GitHub Trophy Collection</strong></p>
-  <img src="https://github-profile-trophy.vercel.app/?username=salahuddingfx&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=5&rank=SSS,SS,S,AAA,AA" alt="GitHub Trophies" style="max-width: 100%;" />
+## 🧔 About Me
+| **Quick Bio** | **Core Beliefs** |
+| :--- | :--- |
+| **Full Stack Developer & UI/UX Designer** from **Cox's Bazar, Bangladesh** 🌴. I'm a creative developer obsessed with crafting **digital experiences** that blend aesthetics with functionality. | > *"Great code is like great design - it's invisible to the user but makes their life better."* I believe in clean code that others love reading. |
+| **🚀 Mission:** Building scalable, maintainable architecture that grows with your needs. | **🎨 Vision:** Creating intuitive UI/UX that users find delightful to interact with. |
+
+### 🛠️ My Workspace
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Developer Avatar" width="180" style="border-radius: 50%; border: 3px solid #7AA2F7;" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-**Full Stack Developer & UI/UX Designer** from **Cox's Bazar, Bangladesh** 🌴
-
-I'm a creative developer obsessed with crafting **digital experiences** that blend aesthetics with functionality. With a passion for turning complex problems into elegant solutions, I specialize in building web applications that users love.
-
-### 🎯 What I Do
-
-- 🚀 **Build Modern Applications** - Crafting scalable, maintainable code with architecture that grows with your needs
-- 🎨 **Design Beautiful Interfaces** - Creating intuitive UI/UX that users find delightful to interact with
-- 💡 **Solve Creative Problems** - Thinking outside the box to find innovative solutions
-- 🔬 **Experiment & Innovate** - Always pushing boundaries with cutting-edge technologies
-- 🤝 **Collaborate Effectively** - Working seamlessly with teams to bring visions to life
-
-### 💡 My Philosophy
-
-> *"Great code is like great design - it's invisible to the user but makes their life better"*
-
-I believe in writing clean, well-documented code that other developers love reading. Every project is an opportunity to create something that matters.
-
-### 🎓 Continuous Learning
-
-Always exploring new technologies, frameworks, and design patterns. Whether it's React, Vue, Node.js, Python, or the latest web standards - I'm committed to staying ahead of the curve.
-
-**📧 Email:** salauddinkadrappy@gmail.com  
-**🔗 Portfolio:** [salahuddingfx.blogspot.com](https://salahuddin.codes)  
-📍 **Location:** Cox's Bazar, Bangladesh
-
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Universe
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>Frontend ✨</strong></td>
+      <td align="center"><strong>Backend ⚙️</strong></td>
+      <td align="center"><strong>Design & Tools 🎨</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass" width="180" alt="Frontend" />
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,php,laravel,python" width="180" alt="Backend" />
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=figma,ps,ai,git,docker,vscode,postman,vercel" width="180" alt="Tools" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap" width="240" alt="Frontend Stack" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django" width="240" alt="Backend Stack" />
-</p>
-
-### Databases & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,git,vscode" width="200" alt="Database & Tools" />
-</p>
+---
 
 ---
 
@@ -138,23 +157,19 @@ Intelligent chatbot with natural language processing
 
 ---
 
-## 🌐 Connect With Me
-
+## 🌐 Let's Connect
 <p align="center">
   <a href="https://github.com/salahuddingfx" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/salahuddingfx" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://behance.net/salahuddingfx" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance"/>
-  </a>
-  <a href="https://dribbble.com/salahuddingfx" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/salahuddingfx" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://behance.net/salahuddingfx" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
 </p>
 
@@ -175,14 +190,31 @@ Intelligent chatbot with natural language processing
 
 ---
 
-## ✨ Quick Summary
+## 🚀 Creative Journey
+<div align="center">
+  <img src="https://img.shields.io/badge/2023-Started%20Coding-7AA2F7?style=flat-square" /> ➔ 
+  <img src="https://img.shields.io/badge/2024-UI%2FUX%20Design-9EEC6A?style=flat-square" /> ➔ 
+  <img src="https://img.shields.io/badge/2025-Full%20Stack%20Mastery-F7768E?style=flat-square" /> ➔ 
+  <img src="https://img.shields.io/badge/2026-Scalable%20Systems-BB9AF7?style=flat-square" />
+</div>
 
-- 💼 **Experience:** Less than 1 year in Full Stack Development
-- 📦 **Repositories:** 31 active projects on GitHub
-- 🎓 **Focus:** Building scalable web applications with modern tech
-- 🌟 **Passion:** Creating beautiful interfaces with clean code
-- 🚀 **Currently:** Available for exciting projects & collaborations
-- 📚 **Learning:** Latest web technologies & best practices
+---
+
+## 🕒 My Developer Rhythm
+<div align="center">
+  <img src="https://img.shields.io/badge/Morning-Plan%20%26%20Design-7AA2F7?style=for-the-badge&logo=googlesheets" />
+  <img src="https://img.shields.io/badge/Afternoon-Deep%20Work-9EEC6A?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Evening-Debugging%20%26%20Refactor-F7768E?style=for-the-badge&logo=bugsnag" />
+  <img src="https://img.shields.io/badge/Night-Learning%20%26%20Creative-BB9AF7?style=for-the-badge&logo=lighthouse" />
+</div>
+
+---
+
+## ✨ Quick Stats Snapshot
+- 💼 **Experience:** < 1 Year (Accelerated Learning)
+- 📦 **Projects:** 31+ Repositories
+- 🎓 **Focus:** High-performance web apps
+- 🚀 **Availability:** Open for collaboration
 
 ---
 
@@ -223,24 +255,41 @@ Intelligent chatbot with natural language processing
 
 ---
 
-## 🧩 Fun Developer Facts
+## 🧠 Dev Insights & Philosophy
+<div align="center">
+  <img src="https://img.shields.io/badge/Workflow-Figma%20%E2%9E%94%20Code-7AA2F7?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/Strategy-Mobile%20First-9EEC6A?style=for-the-badge&logo=pwa" />
+  <img src="https://img.shields.io/badge/Mindset-Always%20Improving-F7768E?style=for-the-badge&logo=gitbook" />
+</div>
 
-- 🌙 Most productive coding hours: **Late evening to midnight**
-- 🛠️ Favorite workflow: **Design in Figma → Build in code → Refine with user feedback**
-- 🐛 Debugging superpower: **Rubber-duck + breakpoints + patience**
-- 🧪 Current experiments: **AI-assisted UX, micro-interactions, and performance tuning**
+> *"Debugging is like being the detective in a crime movie where you are also the murderer."* 🕵️‍♂️
 
 ---
 
-## 📞 Let's Collaborate!
+## 🧩 The Human Side
+- 🌙 **Peak Productivity:** 9 PM - 2 AM (The silent hours)
+- 🧪 **Currently Exploring:** AI-driven UI transitions & Web3
+- 🎮 **Beyond Code:** Graphic Design, Photography, and exploring nature
 
-I'm always interested in working on interesting projects. Whether you need a full-stack developer, UI/UX designer, or want to discuss tech - feel free to reach out!
+---
+
+## 🤝 Support & Collaborate
+<p align="center">
+  <a href="https://www.buymeacoffee.com/salahuddingfx">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  <a href="mailto:salauddinkadrappy@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-7AA2F7?style=for-the-badge&logo=mail.ru&logoColor=white" />
+  </a>
+</p>
 
 **Quick Links:**
 - 📧 [Email Me](mailto:salauddinkadrappy@gmail.com)
 - 💼 [LinkedIn Profile](https://linkedin.com/in/salahuddingfx)
 - 🎨 [Portfolio Website](https://salahuddin.codes)
-- 💬 [Let's Chat on Twitter](https://twitter.com/salahuddingfx)
+- 💬 [Let's Chat on X](https://twitter.com/salahuddingfx)
+
+---
 
 ---
 
@@ -252,10 +301,8 @@ I'm always interested in working on interesting projects. Whether you need a ful
 
 <div align="center" style="margin: 20px 0; padding: 20px; background: linear-gradient(135deg, rgba(122,162,247,0.1) 0%, rgba(158,206,106,0.1) 100%); border-radius: 15px;">
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-FF6B6B?style=for-the-badge" alt="Made with Love" />
-  
   <img src="https://img.shields.io/badge/By-Salah%20Uddin%20Kader-7AA2F7?style=for-the-badge" alt="Creator" />
-  
-  <img src="https://img.shields.io/badge/Updated-March%202026-9EEC6A?style=for-the-badge" alt="Last Update" />
+  <img src="https://img.shields.io/badge/Updated-April%202026-9EEC6A?style=for-the-badge" alt="Last Update" />
 </div>
 
 ---
