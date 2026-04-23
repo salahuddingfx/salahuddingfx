@@ -67,6 +67,14 @@
   </table>
 </div>
 
+### 🏆 GitHub Achievements (Hidden Gems)
+<div align="center">
+  <img src="https://img.shields.io/badge/Pull%20Shark-Gold-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/Quickdraw-Silver-C0C0C0?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" />
+  <img src="https://img.shields.io/badge/Arctic%20Code%20Vault-Blue-0077b6?style=for-the-badge&logo=github&logoColor=white" alt="Arctic Code Vault" />
+  <img src="https://img.shields.io/badge/YOLO-Ready-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
+</div>
+
 ---
 
 ---
