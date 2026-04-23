@@ -30,24 +30,7 @@
 
 ---
 
-## � Live Profile Stats
-
-<p align="center">
-  <a href="https://github.com/salahuddingfx">
-    <img src="https://komarev.com/ghpvc/?username=salahuddingfx&label=Profile+Views&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
-  </a>
-
-  <a href="https://github.com/salahuddingfx?tab=followers">
-    <img src="https://img.shields.io/github/followers/salahuddingfx?label=Followers&style=for-the-badge&color=7AA2F7" alt="Followers" />
-  </a>
-
-  <a href="https://github.com/salahuddingfx?tab=repositories">
-    <img src="https://img.shields.io/github/stars/salahuddingfx?affiliations=OWNER&style=for-the-badge&color=9EEC6A&label=Total+Stars" alt="Total Stars" />
-  </a>
-</p>
----
-
-## �👨‍💻 Welcome to My Digital Space
+## 👨‍💻 Welcome to My Digital Space
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=✨+Full+Stack+Developer+%26+UI%2FUX+Designer;🚀+Crafting+Modern+Web+Solutions;💻+Clean+Code+%26+Beautiful+Design;🎯+Always+Learning+%26+Growing" alt="Typing Animation" />
