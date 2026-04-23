@@ -92,9 +92,28 @@
   </table>
 </div>
 
-### 🛠️ My Workspace
+### 🛠️ My Creative Workspace
+
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Developer Avatar" width="180" style="border-radius: 50%; border: 3px solid #7AA2F7;" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding Avatar" width="160" style="border-radius: 20px; border: 2px solid #7AA2F7;" />
+        <br />
+        <sub><b>Avatar</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eHR2eHB6eXh6eXh6eXh6eXh6eXh6eXh6eXh6eXh6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding Workflow" width="160" style="border-radius: 20px; border: 2px solid #9EEC6A;" />
+        <br />
+        <sub><b>Workflow</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eHR2eHB6eXh6eXh6eXh6eXh6eXh6eXh6eXh6eXh6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIw/giphy.gif" alt="Design & Logic" width="160" style="border-radius: 20px; border: 2px solid #F7768E;" />
+        <br />
+        <sub><b>Logic</b></sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
