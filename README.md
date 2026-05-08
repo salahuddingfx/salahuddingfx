@@ -341,6 +341,14 @@
 
 ---
 
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salahuddingfx&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahuddingfx&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
 ## 💡 Random Dev Wisdom
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
