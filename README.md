@@ -30,50 +30,6 @@
 
 ---
 
-## 🐍 Contribution Evolution
-<div align="center" style="margin: 20px 0; padding: 20px; background: linear-gradient(135deg, rgba(122,162,247,0.1) 0%, rgba(158,206,106,0.1) 100%); border-radius: 15px; border: 2px solid #7AA2F7;">
-  <p><strong>🎮 GitHub Contribution Snake</strong></p>
-  <img src="https://raw.githubusercontent.com/salahuddingfx/salahuddingfx/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="max-width: 100%; border-radius: 10px;" />
-  <p style="font-size: 13px; margin-top: 10px; color: #7AA2F7;"><em>Watch the snake eat through my commit history! 🐍</em></p>
-</div>
-
-
----
-
-## 📊 Performance Metrics & Languages
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=salahuddingfx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahuddingfx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahuddingfx&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salahuddingfx&theme=tokyonight" alt="Profile Details" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🏆 GitHub Achievements (Hidden Gems)
-<div align="center">
-  <img src="https://img.shields.io/badge/Pull%20Shark-Gold-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
-  <img src="https://img.shields.io/badge/Quickdraw-Silver-C0C0C0?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" />
-  <img src="https://img.shields.io/badge/Arctic%20Code%20Vault-Blue-0077b6?style=for-the-badge&logo=github&logoColor=white" alt="Arctic Code Vault" />
-  <img src="https://img.shields.io/badge/YOLO-Ready-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
-</div>
-
----
-
 ## 🧔 The Architect Behind the Code
 
 <div align="center">
@@ -223,23 +179,37 @@
 
 ---
 
-## 🌐 Let's Connect
-<p align="center">
-  <a href="https://github.com/salahuddingfx" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/salahuddingfx" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/salahuddingfx" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://behance.net/salahuddingfx" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
-</p>
+## 📊 Performance Metrics & Languages
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=salahuddingfx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahuddingfx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahuddingfx&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salahuddingfx&theme=tokyonight" alt="Profile Details" />
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+### 🏆 GitHub Achievements (Hidden Gems)
+<div align="center">
+  <img src="https://img.shields.io/badge/Pull%20Shark-Gold-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/Quickdraw-Silver-C0C0C0?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" />
+  <img src="https://img.shields.io/badge/Arctic%20Code%20Vault-Blue-0077b6?style=for-the-badge&logo=github&logoColor=white" alt="Arctic Code Vault" />
+  <img src="https://img.shields.io/badge/YOLO-Ready-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
+</div>
 
 ---
 
@@ -247,6 +217,15 @@
 
 <div align="center" style="margin: 20px 0;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=salahuddingfx&theme=tokyo-night&hide_border=true&bg_color=0d1117&text_color=c9d1d9&area=true&point=7aa2f7&line=7aa2f7" alt="Activity Graph" style="max-width: 100%; border-radius: 10px;" />
+</div>
+
+---
+
+## 🐍 Contribution Evolution
+<div align="center" style="margin: 20px 0; padding: 20px; background: linear-gradient(135deg, rgba(122,162,247,0.1) 0%, rgba(158,206,106,0.1) 100%); border-radius: 15px; border: 2px solid #7AA2F7;">
+  <p><strong>🎮 GitHub Contribution Snake</strong></p>
+  <img src="https://raw.githubusercontent.com/salahuddingfx/salahuddingfx/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="max-width: 100%; border-radius: 10px;" />
+  <p style="font-size: 13px; margin-top: 10px; color: #7AA2F7;"><em>Watch the snake eat through my commit history! 🐍</em></p>
 </div>
 
 ---
@@ -308,6 +287,30 @@
 
 ---
 
+## 🌐 Let's Connect
+<p align="center">
+  <a href="https://github.com/salahuddingfx" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/salahuddingfx" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/salahuddingfx" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://behance.net/salahuddingfx" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+</p>
+
+**Quick Links:**
+- 📧 [Email Me](mailto:salauddinkadrappy@gmail.com)
+- 💼 [LinkedIn Profile](https://linkedin.com/in/salahuddingfx)
+- 🎨 [Portfolio Website](https://salahuddin.codes)
+- 💬 [Let's Chat on X](https://twitter.com/salahuddingfx)
+
+---
+
 ## 🎧 Coding Vibes
 
 <p align="center">
@@ -354,12 +357,6 @@
     <img src="https://img.shields.io/badge/Hire%20Me-7AA2F7?style=for-the-badge&logo=mail.ru&logoColor=white" />
   </a>
 </p>
-
-**Quick Links:**
-- 📧 [Email Me](mailto:salauddinkadrappy@gmail.com)
-- 💼 [LinkedIn Profile](https://linkedin.com/in/salahuddingfx)
-- 🎨 [Portfolio Website](https://salahuddin.codes)
-- 💬 [Let's Chat on X](https://twitter.com/salahuddingfx)
 
 ---
 
