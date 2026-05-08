@@ -148,30 +148,45 @@
   <table border="0">
     <tr>
       <td width="50%" align="top">
+        <img src="media/notesphere.png" width="100%" style="border-radius: 10px;" />
         <h3>📓 NoteSphere</h3>
         <p><strong>MERN Academic Hub</strong></p>
-        <p>A comprehensive platform for sharing and managing notes with AI-driven summaries, premium UI, and academic leagues.</p>
-        <p><em>Stack: MongoDB • Express • React • Node.js</em></p>
+        <p>Sharing notes with AI-driven summaries, premium UI, and academic leagues.</p>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
       </td>
       <td width="50%" align="top">
+        <img src="media/techforge.png" width="100%" style="border-radius: 10px;" />
         <h3>⚔️ CMPI-TechForge</h3>
         <p><strong>MERN Community Platform</strong></p>
-        <p>A robust technical community for developers and students to collaborate, share resources, and showcase innovation.</p>
-        <p><em>Stack: MongoDB • Express • React • Node.js</em></p>
+        <p>A robust technical community for developers to collaborate and innovate.</p>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="top">
+        <img src="media/rongrani.png" width="100%" style="border-radius: 10px;" />
         <h3>🛍️ RongRani</h3>
         <p><strong>Premium MERN E-Commerce</strong></p>
-        <p>A full-featured e-commerce solution with dynamic category imagery, payment integration, and real-time inventory.</p>
-        <p><em>Stack: MongoDB • Express • React • Node.js</em></p>
+        <p>Full-featured e-commerce solution with dynamic imagery and real-time inventory.</p>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
       </td>
       <td width="50%" align="top">
+        <img src="media/designstudio.png" width="100%" style="border-radius: 10px;" />
         <h3>🎨 DesignStudio</h3>
         <p><strong>UI/UX Showcase</strong></p>
-        <p>A specialized gallery of modern UI components and creative design layouts pushed to production standards.</p>
-        <p><em>Stack: React • Tailwind CSS • Framer Motion</em></p>
+        <p>Specialized gallery of modern UI components pushed to production standards.</p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
       </td>
     </tr>
   </table>
@@ -303,10 +318,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://salahuddin.codes" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
 **Quick Links:**
 - 📧 [Email Me](mailto:salauddinkadrappy@gmail.com)
 - 💼 [LinkedIn Profile](https://linkedin.com/in/salahuddingfx)
-- 🎨 [Portfolio Website](https://salahuddin.codes)
 - 💬 [Let's Chat on X](https://twitter.com/salahuddingfx)
 
 ---
