@@ -40,7 +40,7 @@
 
 ---
 
-## 📊 Performance Metrics
+## 📊 Performance Metrics & Languages
 <div align="center">
   <table border="0">
     <tr>
@@ -48,20 +48,17 @@
         <img src="https://github-readme-stats.vercel.app/api?username=salahuddingfx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahuddingfx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahuddingfx&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salahuddingfx&theme=tokyonight" alt="Profile Details" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salahuddingfx&theme=tokyonight" alt="Commit Languages" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salahuddingfx&theme=tokyonight" alt="Overall Stats" />
       </td>
     </tr>
   </table>
@@ -135,35 +132,30 @@
 ## 🛠️ The Tech Universe (Full Stack Mastery)
 
 <div align="center">
-  <!-- Core & MERN -->
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs" width="350" alt="Core Stack" />
-        <br />
-        <sub><b>Core Languages & MERN Stack</b></sub>
-      </td>
-    </tr>
-  </table>
-  <br />
-
   <!-- Categorized Skills -->
   <table>
     <tr>
-      <td align="center"><strong>Frontend Engineering ✨</strong></td>
-      <td align="center"><strong>Backend & Systems ⚙️</strong></td>
+      <td align="center" width="50%"><strong>Frontend Engineering ✨</strong></td>
+      <td align="center" width="50%"><strong>Backend & Systems ⚙️</strong></td>
     </tr>
     <tr>
       <td align="top">
-        <img src="https://skillicons.dev/icons?i=nextjs,tailwind,redux,sass,framer,bootstrap" width="220" alt="Frontend" />
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,sass,framer,bootstrap" width="280" alt="Frontend" />
         <br />
-        <!-- UI Libraries with Badges -->
-        <img src="https://img.shields.io/badge/Headless%20UI-66E3FF?style=flat-square&logo=headlessui&logoColor=black" />
-        <img src="https://img.shields.io/badge/daisyUI-5AD7E4?style=flat-square&logo=daisyui&logoColor=black" />
-        <img src="https://img.shields.io/badge/Shadcn%20UI-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+        <div style="margin-top: 10px;">
+          <img src="https://img.shields.io/badge/Shadcn%20UI-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+          <img src="https://img.shields.io/badge/daisyUI-5AD7E4?style=flat-square&logo=daisyui&logoColor=black" />
+          <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+        </div>
       </td>
       <td align="top">
-        <img src="https://skillicons.dev/icons?i=python,django,php,laravel,firebase,mysql,postgresql,prisma" width="220" alt="Backend" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,firebase,python,django" width="280" alt="Backend" />
+        <br />
+        <div style="margin-top: 10px;">
+          <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
+          <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+          <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
+        </div>
       </td>
     </tr>
     <tr>
@@ -172,10 +164,10 @@
     </tr>
     <tr>
       <td align="top">
-        <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae" width="200" alt="Design" />
+        <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae" width="220" alt="Design" />
       </td>
       <td align="top">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify" width="200" alt="Tools" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify" width="220" alt="Tools" />
       </td>
     </tr>
   </table>
