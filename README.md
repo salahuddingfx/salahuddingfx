@@ -77,8 +77,6 @@
 
 ---
 
----
-
 ## 🧔 The Architect Behind the Code
 
 <div align="center">
@@ -233,8 +231,6 @@
 
 ---
 
----
-
 ## 🌐 Let's Connect
 <p align="center">
   <a href="https://github.com/salahuddingfx" target="_blank">
@@ -252,12 +248,6 @@
 </p>
 
 ---
-
-## 📊 Language & Skills Breakdown
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahuddingfx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9" alt="Top Languages" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=salahuddingfx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9" alt="GitHub Stats" />
-</div>
 
 ---
 
@@ -323,8 +313,6 @@
     </tr>
   </table>
 </div>
-
----
 
 ---
 
@@ -408,7 +396,7 @@
 <div align="center" style="margin: 20px 0; padding: 20px; background: linear-gradient(135deg, rgba(122,162,247,0.1) 0%, rgba(158,206,106,0.1) 100%); border-radius: 15px;">
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-FF6B6B?style=for-the-badge" alt="Made with Love" />
   <img src="https://img.shields.io/badge/By-Salah%20Uddin%20Kader-7AA2F7?style=for-the-badge" alt="Creator" />
-  <img src="https://img.shields.io/badge/Updated-April%202026-9EEC6A?style=for-the-badge" alt="Last Update" />
+  <img src="https://img.shields.io/badge/Updated-May%202026-9EEC6A?style=for-the-badge" alt="Last Update" />
 </div>
 
 ---
