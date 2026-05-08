@@ -30,7 +30,7 @@
 
 ---
 
-## 🧔 The Architect Behind the Code
+## 🧔 About Me
 
 <div align="center">
   <table border="0">
@@ -338,14 +338,6 @@
 - 🌙 **Peak Productivity:** 9 PM - 2 AM (The silent hours of innovation)
 - 🧪 **Currently Exploring:** AI-driven UI transitions, Web3, and Micro-interactions
 - 🎨 **Beyond Code:** Professional Graphic Design, Photography, and exploring nature's aesthetics
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salahuddingfx&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahuddingfx&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ---
 
