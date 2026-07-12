@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,24,28&height=250&section=header&text=Salah%20Uddin%20Kader&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40" />
+  <img src="media/banner.svg" alt="Salah Uddin Kader" width="100%" />
 </div>
 
 <div align="center">
@@ -39,7 +39,7 @@
 ## 🧔 About Me
 
 <div align="center">
-  <table border="0">
+  <table border="4" cellpadding="8" cellspacing="0">
     <tr>
       <td width="42%" align="center" valign="top">
         <h3>👾 Digital Portrait</h3>
@@ -70,7 +70,7 @@
 ### 🛠️ My Creative Workspace
 
 <div align="center">
-  <table border="0">
+  <table border="3" cellpadding="8" cellspacing="0">
     <tr>
       <td align="center" valign="middle">
         <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding Avatar" width="160" />
@@ -96,7 +96,7 @@
 ## 🛠️ The Tech Universe (Full Stack Mastery)
 
 <div align="center">
-  <table border="0">
+  <table border="3" cellpadding="8" cellspacing="0">
     <tr>
       <td align="center" width="50%"><strong>Frontend Engineering ✨</strong></td>
       <td align="center" width="50%"><strong>Backend & Systems ⚙️</strong></td>
@@ -152,7 +152,7 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <table border="0">
+  <table border="4" cellpadding="8" cellspacing="0">
     <!-- Row 1 -->
     <tr>
       <td width="25%" valign="top" align="center">
@@ -268,7 +268,7 @@
 
 ## 📈 Performance & Impact
 <div align="center">
-  <table border="0">
+  <table border="3" cellpadding="8" cellspacing="0">
     <tr>
       <td width="50%" align="center" valign="middle">
         <img src="https://github-readme-stats.vercel.app/api?username=salahuddingfx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9" alt="GitHub Stats" />
@@ -343,7 +343,7 @@
 ## 🎯 2026 Goals Tracker
 
 <div align="center">
-  <table border="0">
+  <table border="3" cellpadding="8" cellspacing="0">
     <tr>
       <td align="left">🚀 **Launch 5 Production Projects**</td>
       <td align="right">🟩🟩🟩🟩⬜ 80%</td>
@@ -449,7 +449,7 @@
 
 ## 📅 My Typical Coding Hours
 <div align="center">
-  <table border="0">
+  <table border="3" cellpadding="8" cellspacing="0">
     <tr>
       <td><strong>Monday - Friday</strong></td>
       <td><strong>Saturday - Sunday</strong></td>
@@ -469,12 +469,6 @@
 
 ---
 
-<div align="center" style="margin: 20px 0; padding: 20px; background: linear-gradient(135deg, rgba(122,162,247,0.1) 0%, rgba(158,206,106,0.1) 100%); border-radius: 15px;">
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-FF6B6B?style=for-the-badge" alt="Made with Love" />
-  <img src="https://img.shields.io/badge/By-Salah%20Uddin%20Kader-7AA2F7?style=for-the-badge" alt="Creator" />
-  <img src="https://img.shields.io/badge/Updated-May%202026-9EEC6A?style=for-the-badge" alt="Last Update" />
+<div align="center">
+  <img src="media/footer.svg" alt="Footer Banner" width="100%" />
 </div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,24,28&height=100&section=footer&animation=fadeIn" />
