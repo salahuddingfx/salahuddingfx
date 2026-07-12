@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 910 110" width="910" height="110">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&amp;family=Space+Mono:wght@700&amp;display=swap');
+      
+      .footer-text {
+        font-family: 'Space Grotesk', sans-serif;
+        font-size: 15px;
+        font-weight: 900;
+        fill: #000000;
+        letter-spacing: 0.8px;
+      }
+      .stripe-pattern {
+        fill: url(#stripes);
+      }
+    </style>
+    
+    <!-- Brutalist Warning Stripes Pattern -->
+    <pattern id="stripes" width="20" height="20" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="0" y2="20" stroke="#000000" stroke-width="10" />
+    </pattern>
+  </defs>
+
+  <!-- Footer Shadow -->
+  <rect x="10" y="10" width="880" height="85" fill="#000000" rx="6" />
+  
+  <!-- Footer Main Body -->
+  <rect x="0" y="0" width="880" height="85" fill="#00E5FF" stroke="#000000" stroke-width="4.5" rx="6" />
+
+  <!-- Left Warning Stripe Panel -->
+  <rect x="5" y="5" width="80" height="75" class="stripe-pattern" stroke="#000000" stroke-width="3" />
+  
+  <!-- Right Warning Stripe Panel -->
+  <rect x="795" y="5" width="80" height="75" class="stripe-pattern" stroke="#000000" stroke-width="3" />
+
+  <!-- Centered Footer Text Banner -->
+  <rect x="164" y="22" width="550" height="40" fill="#FFFFFF" stroke="#000000" stroke-width="3" rx="4" />
+  
+  <!-- Stars flanking text -->
+  <path d="M 180 34 L 182 40 L 188 42 L 182 44 L 180 50 L 178 44 L 172 42 L 178 40 Z" fill="#FFDE4D" stroke="#000000" stroke-width="1.5" />
+  <path d="M 698 34 L 700 40 L 706 42 L 700 44 L 698 50 L 696 44 L 690 42 L 696 40 Z" fill="#FFDE4D" stroke="#000000" stroke-width="1.5" />
+
+  <!-- Text -->
+  <text x="439" y="47" class="footer-text" text-anchor="middle">SALAHUDDIN.CODES // CREATIVE PORTFOLIO &amp; SHOWCASE // 2026</text>
+</svg>
