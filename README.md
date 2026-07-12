@@ -153,46 +153,95 @@
 
 <div align="center">
   <table border="0">
+    <!-- Row 1 -->
     <tr>
-      <td width="50%" valign="top">
-        <img src="media/notesphere.png" width="100%" alt="NoteSphere" />
-        <h3>📓 NoteSphere</h3>
-        <p><strong>Academic Intelligence Ecosystem</strong></p>
-        <p>Sharing notes with AI-driven summaries, premium UI, and academic leagues.</p>
+      <td width="25%" valign="top" align="center">
+        <a href="https://acharu.com" target="_blank">
+          <img src="media/acharu.png" width="100%" alt="Acharu" style="border-radius: 8px;" />
+          <h4>🌶️ Acharu</h4>
+        </a>
+        <p><small><strong>Laravel &amp; React E-Commerce</strong><br/>Premium pickle e-commerce platform featuring immersive animations.</small></p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
+      </td>
+      <td width="25%" valign="top" align="center">
+        <a href="https://tajashutki.com" target="_blank">
+          <img src="media/tajashutki.png" width="100%" alt="Taja Shutki" style="border-radius: 8px;" />
+          <h4>🐟 Taja Shutki</h4>
+        </a>
+        <p><small><strong>Laravel &amp; React E-Commerce</strong><br/>Premium dry fish e-commerce with real-time stock and dynamic cart.</small></p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
+      </td>
+      <td width="25%" valign="top" align="center">
+        <a href="https://github.com/salahuddingfx/NoteSphere" target="_blank">
+          <img src="media/notesphere.png" width="100%" alt="NoteSphere" style="border-radius: 8px;" />
+          <h4>📓 NoteSphere</h4>
+        </a>
+        <p><small><strong>MERN Academic Hub</strong><br/>Academic Intelligence Ecosystem with AI-driven summaries and gamified leagues.</small></p>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
       </td>
-      <td width="50%" valign="top">
-        <img src="media/studyflow.png" width="100%" alt="Study-Flow" />
-        <h3>📈 Study-Flow</h3>
-        <p><strong>Academic Productivity Hub</strong></p>
-        <p>Full-stack productivity & study-management application designed to help students track progress, build study habits, and gamify success.</p>
+      <td width="25%" valign="top" align="center">
+        <a href="https://cmpitechforge.dev" target="_blank">
+          <img src="media/techforge.png" width="100%" alt="TechForge" style="border-radius: 8px;" />
+          <h4>⚔️ TechForge</h4>
+        </a>
+        <p><small><strong>MERN Dev Community</strong><br/>A robust community platform for developers to collaborate and share technical knowledge.</small></p>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
       </td>
     </tr>
+    <!-- Row 2 -->
     <tr>
-      <td width="50%" valign="top">
-        <img src="media/gesture_system.png" width="100%" alt="Gesture-System" />
-        <h3>🙌 Gesture-System</h3>
-        <p><strong>Real-Time Gesture Control</strong></p>
-        <p>A high-performance gesture-recognition system enabling touchless interactive camera controls, computer-vision modeling, and real-time tracking.</p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-        <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
+      <td width="25%" valign="top" align="center">
+        <a href="https://english-stepup.vercel.app" target="_blank">
+          <img src="media/english_stepup.png" width="100%" alt="English StepUp" style="border-radius: 8px;" />
+          <h4>📚 English StepUp</h4>
+        </a>
+        <p><small><strong>Interactive EdTech Portal</strong><br/>English learning system designed for step-by-step progress tracking.</small></p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
       </td>
-      <td width="50%" valign="top">
-        <img src="media/nyra_ai.png" width="100%" alt="NYRA_AI" />
-        <h3>🤖 NYRA_AI</h3>
-        <p><strong>AI-Driven Assistant</strong></p>
-        <p>A smart AI-driven assistant with modular agent orchestration, neural visualization flow, and seamless custom workflow automation.</p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+      <td width="25%" valign="top" align="center">
+        <a href="https://sirat.salahuddin.codes" target="_blank">
+          <img src="media/sirat.png" width="100%" alt="Sirat" style="border-radius: 8px;" />
+          <h4>🛍️ Sirat</h4>
+        </a>
+        <p><small><strong>Premium E-Commerce</strong><br/>Modern e-commerce architecture tailored for clean design and fast load times.</small></p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      </td>
+      <td width="25%" valign="top" align="center">
+        <a href="https://rongrani.vercel.app" target="_blank">
+          <img src="media/rongrani.png" width="100%" alt="RongRani" style="border-radius: 8px;" />
+          <h4>👗 RongRani</h4>
+        </a>
+        <p><small><strong>MERN Premium E-Commerce</strong><br/>Full-featured e-commerce solution with dynamic imagery and stock management.</small></p>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
+      </td>
+      <td width="25%" valign="top" align="center">
+        <a href="https://alumni.salahuddin.codes" target="_blank">
+          <img src="media/alumni.png" width="100%" alt="Alumni Association" style="border-radius: 8px;" />
+          <h4>🎓 Alumni Portal</h4>
+        </a>
+        <p><small><strong>Alumni Network Portal</strong><br/>Networking platform featuring directory, event registration, and community hub.</small></p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
       </td>
     </tr>
   </table>
