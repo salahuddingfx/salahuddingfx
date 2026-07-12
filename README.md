@@ -28,6 +28,12 @@
   </a>
 </p>
 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=salahuddingfx&theme=tokyonight&no-bg=true&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</div>
+
 ---
 
 ## 🧔 About Me
@@ -35,12 +41,36 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%" valign="top">
+      <td width="42%" align="center" valign="top">
+        <h3>👾 Digital Portrait</h3>
+        <pre align="left">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@##S########@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@#@###S#@@@@@#@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@##SS*+;;+*?%#@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@##S%?*S*;;::;;;+*S@@S##@@@@@@@@@@@
+@@@@@@@@###S?+::;%***?*+**???@%;?%S##@@@@@@@@
+@@@@@@##SS?;::::+**+****%???%#*::+?SS#@@@@@@@
+@@@@@@#S%*+:::::;+;;;;;;**++*%+::++*%S#@@@@@@
+@@@@@#S%*++;::,::;+;++**?****+:,+++++%S#@@@@@
+@@@@@#S?+*+*:;***++*+++**???+*?%*+*+;*S#@@@@@
+@@@@@#%*****+*#S#S;*****??%*%SS#+;++;;%#@@@@@
+@@@@#S?+**+;*;*?%S;;+*?%%?*;S?**;++;:+*?%S@@@
+@@@#?%?+****???%%S:,,;++;::*#@#SS%%;:+;;:?#@@
+@@@@S%%??%%SSSSS%%+,*?*+;,+########S%?+;*#@@@
+@@@@@S%SSS%%SS%%%%*,:*%S;;SSSSS#SSSS##@S#@@@@
+@@@@@@SSSSSSSS%%%%?,:?%*,?SSSS#SSSS###@@@@@@@
+@@@@@#SSS#SSSSS%%%%:+?%?+SSSS####S####@@@@@@@
+@@@@@#SSS####SSS%%S+*?%%SSS#######@####@@@@@@
+@@@@#S####@@##SSSSS%?%%SSS#######@@###@@@@@@@
+@@@@#S%%S#@@#####SSS%%S###@@@@@@@@@###@@@@@@@
+@@@#?*+++*%@@@@###SSSS##@@@@@@@@@@#####@@@@@@
+@@@S*+*?**+?#@@@###S###@@@@@@@@@@#S%?%#@@@@@@</pre>
+      </td>
+      <td width="58%" valign="top" align="left">
         <h3>🚀 Beyond the Pixels</h3>
         <p>I'm a <strong>Full Stack Architect</strong> based in the tropical vibes of <strong>Cox's Bazar, Bangladesh</strong> 🌴. I don't just build apps; I craft <strong>digital experiences</strong> where pixel-perfect design meets high-performance logic.</p>
         <p>Currently obsessed with <strong>Next.js, AI-driven UX, and Scalable Architectures.</strong></p>
-      </td>
-      <td width="50%" valign="top">
         <h3>🎨 Core Philosophy</h3>
         <blockquote>
           <em>"Great code is like great design—it's invisible to the user but makes their journey effortless."</em>
