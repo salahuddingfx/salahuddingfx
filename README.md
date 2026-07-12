@@ -157,7 +157,7 @@
       <td width="50%" valign="top">
         <img src="media/notesphere.png" width="100%" alt="NoteSphere" />
         <h3>📓 NoteSphere</h3>
-        <p><strong>MERN Academic Hub</strong></p>
+        <p><strong>Academic Intelligence Ecosystem</strong></p>
         <p>Sharing notes with AI-driven summaries, premium UI, and academic leagues.</p>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
@@ -165,10 +165,10 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
       </td>
       <td width="50%" valign="top">
-        <img src="media/techforge.png" width="100%" alt="TechForge" />
-        <h3>⚔️ CMPI-TechForge</h3>
-        <p><strong>MERN Community Platform</strong></p>
-        <p>A robust technical community for developers to collaborate and innovate.</p>
+        <img src="media/studyflow.png" width="100%" alt="Study-Flow" />
+        <h3>📈 Study-Flow</h3>
+        <p><strong>Academic Productivity Hub</strong></p>
+        <p>Full-stack productivity & study-management application designed to help students track progress, build study habits, and gamify success.</p>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -177,23 +177,22 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <img src="media/rongrani.png" width="100%" alt="RongRani" />
-        <h3>🛍️ RongRani</h3>
-        <p><strong>Premium MERN E-Commerce</strong></p>
-        <p>Full-featured e-commerce solution with dynamic imagery and real-time inventory.</p>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
+        <img src="media/gesture_system.png" width="100%" alt="Gesture-System" />
+        <h3>🙌 Gesture-System</h3>
+        <p><strong>Real-Time Gesture Control</strong></p>
+        <p>A high-performance gesture-recognition system enabling touchless interactive camera controls, computer-vision modeling, and real-time tracking.</p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
       </td>
       <td width="50%" valign="top">
-        <img src="media/designstudio.png" width="100%" alt="DesignStudio" />
-        <h3>🎨 DesignStudio</h3>
-        <p><strong>UI/UX Showcase</strong></p>
-        <p>Specialized gallery of modern UI components pushed to production standards.</p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer" />
+        <img src="media/nyra_ai.png" width="100%" alt="NYRA_AI" />
+        <h3>🤖 NYRA_AI</h3>
+        <p><strong>AI-Driven Assistant</strong></p>
+        <p>A smart AI-driven assistant with modular agent orchestration, neural visualization flow, and seamless custom workflow automation.</p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
       </td>
     </tr>
   </table>
