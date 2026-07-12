@@ -6,10 +6,10 @@
       
       .title-text {
         font-family: 'Archivo Black', 'Arial Black', Impact, sans-serif;
-        font-size: 46px;
+        font-size: 38px;
         font-weight: 900;
         fill: #000000;
-        letter-spacing: -1px;
+        letter-spacing: -0.5px;
       }
       .badge-text {
         font-family: 'Space Grotesk', system-ui, -apple-system, sans-serif;
@@ -108,8 +108,8 @@
     <text x="100" y="18" class="sticker-text" text-anchor="middle">CREATIVE MIND</text>
   </g>
 
-  <!-- Name -->
-  <text x="40" y="90" class="title-text">SALAH UDDIN KADER</text>
+  <!-- Name (Sized to fit perfectly without overlapping the terminal) -->
+  <text x="40" y="95" class="title-text">SALAH UDDIN KADER</text>
 
   <!-- Subtitle Badge Shadow -->
   <rect x="44" y="124" width="455" height="38" fill="#000000" rx="4" />
@@ -167,10 +167,10 @@
 
   <!-- Terminal Content with Colored Text -->
   <g transform="translate(578, 88)">
-    <text x="0" y="0" class="mono-text" fill="#9ece6a">> loc: Cox's Bazar, BD 🌴</text>
-    <text x="0" y="24" class="mono-text" fill="#7aa2f7">> status: active &amp; designing</text>
-    <text x="0" y="48" class="mono-text" fill="#bb9af7">> stack: MERN Stack</text>
-    <text x="0" y="72" class="mono-text" fill="#f7768e">> focus: AI Agent UI/UX</text>
-    <text x="0" y="96" class="mono-text" fill="#e0af68">> site: salahuddin.codes<tspan class="terminal-cursor">▋</tspan></text>
+    <text x="0" y="0" font-family="'Space Mono', 'Fira Code', 'Courier New', monospace" font-size="12" font-weight="bold" fill="#9ece6a">> loc: Cox's Bazar, BD 🌴</text>
+    <text x="0" y="24" font-family="'Space Mono', 'Fira Code', 'Courier New', monospace" font-size="12" font-weight="bold" fill="#7aa2f7">> status: active &amp; designing</text>
+    <text x="0" y="48" font-family="'Space Mono', 'Fira Code', 'Courier New', monospace" font-size="12" font-weight="bold" fill="#bb9af7">> stack: MERN Stack</text>
+    <text x="0" y="72" font-family="'Space Mono', 'Fira Code', 'Courier New', monospace" font-size="12" font-weight="bold" fill="#f7768e">> focus: AI Agent UI/UX</text>
+    <text x="0" y="96" font-family="'Space Mono', 'Fira Code', 'Courier New', monospace" font-size="12" font-weight="bold" fill="#e0af68">> site: salahuddin.codes<tspan class="terminal-cursor">▋</tspan></text>
   </g>
 </svg>
