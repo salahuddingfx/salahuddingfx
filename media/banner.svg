@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 910 260" width="910" height="260">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&amp;family=Space+Grotesk:wght@700&amp;family=Space+Mono:wght@700&amp;display=swap');
+      
+      .title-text {
+        font-family: 'Archivo Black', sans-serif;
+        font-size: 48px;
+        fill: #000000;
+        font-weight: 900;
+        letter-spacing: -1px;
+      }
+      .badge-text {
+        font-family: 'Space Grotesk', sans-serif;
+        font-size: 15px;
+        font-weight: bold;
+        fill: #000000;
+        letter-spacing: 0.5px;
+      }
+      .mono-text {
+        font-family: 'Space Mono', monospace;
+        font-size: 13px;
+        font-weight: bold;
+        fill: #000000;
+      }
+      .window-title {
+        font-family: 'Space Grotesk', sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        fill: #000000;
+      }
+    </style>
+  </defs>
+
+  <!-- Banner Shadow -->
+  <rect x="12" y="12" width="880" height="230" fill="#000000" rx="8" />
+  
+  <!-- Banner Main Body -->
+  <rect x="0" y="0" width="880" height="230" fill="#FFDE4D" stroke="#000000" stroke-width="4.5" rx="8" />
+
+  <!-- Grid decoration on background (dots) -->
+  <pattern id="dotGrid" width="20" height="20" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1.5" fill="#e0af68" opacity="0.4" />
+  </pattern>
+  <rect x="5" y="5" width="870" height="220" fill="url(#dotGrid)" rx="6" pointer-events="none" />
+
+  <!-- Name -->
+  <text x="40" y="85" class="title-text">SALAH UDDIN KADER</text>
+
+  <!-- Badge / Subtitle Shadow -->
+  <rect x="44" y="121" width="455" height="38" fill="#000000" rx="4" />
+  <!-- Badge / Subtitle Main -->
+  <rect x="40" y="117" width="455" height="38" fill="#FFFFFF" stroke="#000000" stroke-width="3" rx="4" />
+  <text x="52" y="141" class="badge-text">FULL STACK AI ENGINEER // CREATIVE DEVELOPER</text>
+
+  <!-- Graphic Accents / Brutalist Crosses & Stars -->
+  <!-- Star 1 -->
+  <path d="M 40 180 L 45 195 L 60 200 L 45 205 L 40 220 L 35 205 L 20 200 L 35 195 Z" fill="#00E5FF" stroke="#000000" stroke-width="2.5" />
+  <!-- Star 2 -->
+  <path d="M 520 70 L 524 82 L 536 86 L 524 90 L 520 102 L 516 90 L 504 86 L 516 82 Z" fill="#f7768e" stroke="#000000" stroke-width="2.5" />
+
+  <!-- Terminal Window Widget -->
+  <!-- Terminal Window Shadow -->
+  <rect x="578" y="44" width="280" height="165" fill="#000000" rx="6" />
+  <!-- Terminal Window Body -->
+  <rect x="570" y="36" width="280" height="165" fill="#FFFFFF" stroke="#000000" stroke-width="4.5" rx="6" />
+  <!-- Terminal Header -->
+  <rect x="570" y="36" width="280" height="32" fill="#bb9af7" stroke="#000000" stroke-width="4.5" rx="6" />
+  <!-- Terminal Header Cover to prevent overlapping rounded corners -->
+  <rect x="572.5" y="55" width="275" height="10" fill="#FFFFFF" />
+  
+  <!-- Window Controls -->
+  <circle cx="590" cy="52" r="5" fill="#f7768e" stroke="#000000" stroke-width="1.8" />
+  <circle cx="605" cy="52" r="5" fill="#e0af68" stroke="#000000" stroke-width="1.8" />
+  <circle cx="620" cy="52" r="5" fill="#9ece6a" stroke="#000000" stroke-width="1.8" />
+  <text x="710" y="56" class="window-title" text-anchor="middle">salahuddin@terminal: ~</text>
+
+  <!-- Terminal Content -->
+  <g transform="translate(585, 90)">
+    <text x="0" y="0" class="mono-text">> loc: Cox's Bazar, BD 🌴</text>
+    <text x="0" y="24" class="mono-text">> status: building systems</text>
+    <text x="0" y="48" class="mono-text">> stack: Laravel + MERN</text>
+    <text x="0" y="72" class="mono-text">> focus: AI Agent UX</text>
+    <text x="0" y="96" class="mono-text">> site: salahuddin.codes</text>
+  </g>
+</svg>
