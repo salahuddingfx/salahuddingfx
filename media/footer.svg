@@ -3,6 +3,30 @@
     <style>
       <![CDATA[
       @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&family=Space+Mono:wght@700&display=swap');
+      
+      .footer-text {
+        font-family: 'Space Grotesk', system-ui, -apple-system, sans-serif;
+        font-size: 14px;
+        font-weight: 900;
+        fill: #000000;
+        letter-spacing: 0.8px;
+      }
+      .stripe-pattern {
+        fill: url(#stripes);
+      }
+      
+      @keyframes spin-slow {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      .footer-star-1 {
+        animation: spin-slow 15s linear infinite;
+        transform-origin: 180px 42px;
+      }
+      .footer-star-2 {
+        animation: spin-slow 15s linear infinite;
+        transform-origin: 698px 42px;
+      }
       ]]>
     </style>
     
@@ -27,10 +51,10 @@
   <!-- Centered Footer Text Banner -->
   <rect x="164" y="22" width="550" height="40" fill="#FFFFFF" stroke="#000000" stroke-width="3" rx="4" />
   
-  <!-- Stars flanking text -->
-  <path d="M 180 34 L 182 40 L 188 42 L 182 44 L 180 50 L 178 44 L 172 42 L 178 40 Z" fill="#FFDE4D" stroke="#000000" stroke-width="1.5" />
-  <path d="M 698 34 L 700 40 L 706 42 L 700 44 L 698 50 L 696 44 L 690 42 L 696 40 Z" fill="#FFDE4D" stroke="#000000" stroke-width="1.5" />
+  <!-- Stars flanking text with spin animation class -->
+  <path class="footer-star-1" d="M 180 34 L 182 40 L 188 42 L 182 44 L 180 50 L 178 44 L 172 42 L 178 40 Z" fill="#FFDE4D" stroke="#000000" stroke-width="1.5" />
+  <path class="footer-star-2" d="M 698 34 L 700 40 L 706 42 L 700 44 L 698 50 L 696 44 L 690 42 L 696 40 Z" fill="#FFDE4D" stroke="#000000" stroke-width="1.5" />
 
-  <!-- Text (Using inline font styles) -->
-  <text x="439" y="47" font-family="'Space Grotesk', system-ui, -apple-system, sans-serif" font-size="14" font-weight="900" fill="#000000" text-anchor="middle" letter-spacing="0.8">SALAHUDDIN.CODES // CREATIVE PORTFOLIO &amp; SHOWCASE // 2026</text>
+  <!-- Text -->
+  <text x="439" y="47" class="footer-text" text-anchor="middle">SALAHUDDIN.CODES // CREATIVE PORTFOLIO &amp; SHOWCASE // 2026</text>
 </svg>
