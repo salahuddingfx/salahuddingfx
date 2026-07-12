@@ -1,0 +1,284 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 339" width="460" height="339">
+  <style>
+    .line {
+      font-family: monospace;
+      font-size: 11px;
+      font-weight: bold;
+      white-space: pre;
+    }
+    @keyframes type-0 {
+      0%, 0.00% { width: 0; }
+      2.05%, 90% { width: 330px; }
+      95%, 100% { width: 0; }
+    }
+    #rect-0 {
+      animation: type-0 10s steps(45) infinite;
+    }
+    @keyframes type-1 {
+      0%, 2.05% { width: 0; }
+      4.09%, 90% { width: 330px; }
+      95%, 100% { width: 0; }
+    }
+    #rect-1 {
+      animation: type-1 10s steps(45) infinite;
+    }
+    @keyframes type-2 {
+      0%, 4.09% { width: 0; }
+      6.14%, 90% { width: 330px; }
+      95%, 100% { width: 0; }
+    }
+    #rect-2 {
+      animation: type-2 10s steps(45) infinite;
+    }
+    @keyframes type-3 {
+      0%, 6.14% { width: 0; }
+      8.18%, 90% { width: 330px; }
+      95%, 100% { width: 0; }
+    }
+    #rect-3 {
+      animation: type-3 10s steps(45) infinite;
+    }
+    @keyframes type-4 {
+      0%, 8.18% { width: 0; }
+      10.23%, 90% { width: 330px; }
+      95%, 100% { width: 0; }
+    }
+    #rect-4 {
+      animation: type-4 10s steps(45) infinite;
+    }
+    @keyframes type-5 {
+      0%, 10.23% { width: 0; }
+      12.27%, 90% { width: 330px; }
+      95%, 100% { width: 0; }
+    }
+    #rect-5 {
+      animation: type-5 10s steps(45) infinite;
+    }
+    @keyframes type-6 {
+      0%, 12.27% { width: 0; }
+      14.32%, 90% { width: 330px; }
+      95%, 100% { width: 0; }
+    }
+    #rect-6 {
+      animation: type-6 10s steps(45) infinite;
+    }
+    @keyframes type-7 {
+      0%, 14.32% { width: 0; }
+      16.36%, 90% { width: 330px; }
+      95%, 100% { width: 0; }
+    }
+    #rect-7 {
+      animation: type-7 10s steps(45) infinite;
+    }
+    @keyframes type-8 {
+      0%, 16.36% { width: 0; }
+      18.41%, 90% { width: 330px; }
+      95%, 100% { width: 0; }
+    }
+    #rect-8 {
+      animation: type-8 10s steps(45) infinite;
+    }
+    @keyframes type-9 {
+      0%, 18.41% { width: 0; }
+      20.45%, 90% { width: 330px; }
+      95%, 100% { width: 0; }
+    }
+    #rect-9 {
+      animation: type-9 10s steps(45) infinite;
+    }
+    @keyframes type-10 {
+      0%, 20.45% { width: 0; }
+      22.50%, 90% { width: 330px; }
+      95%, 100% { width: 0; }
+    }
+    #rect-10 {
+      animation: type-10 10s steps(45) infinite;
+    }
+    @keyframes type-11 {
+      0%, 22.50% { width: 0; }
+      24.55%, 90% { width: 330px; }
+      95%, 100% { width: 0; }
+    }
+    #rect-11 {
+      animation: type-11 10s steps(45) infinite;
+    }
+    @keyframes type-12 {
+      0%, 24.55% { width: 0; }
+      26.59%, 90% { width: 330px; }
+      95%, 100% { width: 0; }
+    }
+    #rect-12 {
+      animation: type-12 10s steps(45) infinite;
+    }
+    @keyframes type-13 {
+      0%, 26.59% { width: 0; }
+      28.64%, 90% { width: 330px; }
+      95%, 100% { width: 0; }
+    }
+    #rect-13 {
+      animation: type-13 10s steps(45) infinite;
+    }
+    @keyframes type-14 {
+      0%, 28.64% { width: 0; }
+      30.68%, 90% { width: 330px; }
+      95%, 100% { width: 0; }
+    }
+    #rect-14 {
+      animation: type-14 10s steps(45) infinite;
+    }
+    @keyframes type-15 {
+      0%, 30.68% { width: 0; }
+      32.73%, 90% { width: 330px; }
+      95%, 100% { width: 0; }
+    }
+    #rect-15 {
+      animation: type-15 10s steps(45) infinite;
+    }
+    @keyframes type-16 {
+      0%, 32.73% { width: 0; }
+      34.77%, 90% { width: 330px; }
+      95%, 100% { width: 0; }
+    }
+    #rect-16 {
+      animation: type-16 10s steps(45) infinite;
+    }
+    @keyframes type-17 {
+      0%, 34.77% { width: 0; }
+      36.82%, 90% { width: 330px; }
+      95%, 100% { width: 0; }
+    }
+    #rect-17 {
+      animation: type-17 10s steps(45) infinite;
+    }
+    @keyframes type-18 {
+      0%, 36.82% { width: 0; }
+      38.86%, 90% { width: 330px; }
+      95%, 100% { width: 0; }
+    }
+    #rect-18 {
+      animation: type-18 10s steps(45) infinite;
+    }
+    @keyframes type-19 {
+      0%, 38.86% { width: 0; }
+      40.91%, 90% { width: 330px; }
+      95%, 100% { width: 0; }
+    }
+    #rect-19 {
+      animation: type-19 10s steps(45) infinite;
+    }
+    @keyframes type-20 {
+      0%, 40.91% { width: 0; }
+      42.95%, 90% { width: 330px; }
+      95%, 100% { width: 0; }
+    }
+    #rect-20 {
+      animation: type-20 10s steps(45) infinite;
+    }
+    @keyframes type-21 {
+      0%, 42.95% { width: 0; }
+      45.00%, 90% { width: 330px; }
+      95%, 100% { width: 0; }
+    }
+    #rect-21 {
+      animation: type-21 10s steps(45) infinite;
+    }
+  </style>
+  <defs>
+    <clipPath id="clip-0">
+      <rect id="rect-0" x="65" y="44" width="0" height="16" />
+    </clipPath>
+    <clipPath id="clip-1">
+      <rect id="rect-1" x="65" y="56" width="0" height="16" />
+    </clipPath>
+    <clipPath id="clip-2">
+      <rect id="rect-2" x="65" y="68" width="0" height="16" />
+    </clipPath>
+    <clipPath id="clip-3">
+      <rect id="rect-3" x="65" y="80" width="0" height="16" />
+    </clipPath>
+    <clipPath id="clip-4">
+      <rect id="rect-4" x="65" y="92" width="0" height="16" />
+    </clipPath>
+    <clipPath id="clip-5">
+      <rect id="rect-5" x="65" y="104" width="0" height="16" />
+    </clipPath>
+    <clipPath id="clip-6">
+      <rect id="rect-6" x="65" y="116" width="0" height="16" />
+    </clipPath>
+    <clipPath id="clip-7">
+      <rect id="rect-7" x="65" y="128" width="0" height="16" />
+    </clipPath>
+    <clipPath id="clip-8">
+      <rect id="rect-8" x="65" y="140" width="0" height="16" />
+    </clipPath>
+    <clipPath id="clip-9">
+      <rect id="rect-9" x="65" y="152" width="0" height="16" />
+    </clipPath>
+    <clipPath id="clip-10">
+      <rect id="rect-10" x="65" y="164" width="0" height="16" />
+    </clipPath>
+    <clipPath id="clip-11">
+      <rect id="rect-11" x="65" y="176" width="0" height="16" />
+    </clipPath>
+    <clipPath id="clip-12">
+      <rect id="rect-12" x="65" y="188" width="0" height="16" />
+    </clipPath>
+    <clipPath id="clip-13">
+      <rect id="rect-13" x="65" y="200" width="0" height="16" />
+    </clipPath>
+    <clipPath id="clip-14">
+      <rect id="rect-14" x="65" y="212" width="0" height="16" />
+    </clipPath>
+    <clipPath id="clip-15">
+      <rect id="rect-15" x="65" y="224" width="0" height="16" />
+    </clipPath>
+    <clipPath id="clip-16">
+      <rect id="rect-16" x="65" y="236" width="0" height="16" />
+    </clipPath>
+    <clipPath id="clip-17">
+      <rect id="rect-17" x="65" y="248" width="0" height="16" />
+    </clipPath>
+    <clipPath id="clip-18">
+      <rect id="rect-18" x="65" y="260" width="0" height="16" />
+    </clipPath>
+    <clipPath id="clip-19">
+      <rect id="rect-19" x="65" y="272" width="0" height="16" />
+    </clipPath>
+    <clipPath id="clip-20">
+      <rect id="rect-20" x="65" y="284" width="0" height="16" />
+    </clipPath>
+    <clipPath id="clip-21">
+      <rect id="rect-21" x="65" y="296" width="0" height="16" />
+    </clipPath>
+  </defs>
+  <rect width="460" height="339" rx="12" fill="#0d1117" stroke="#222428" stroke-width="2" />
+  <g>
+    <circle cx="20" cy="20" r="6" fill="#f7768e" />
+    <circle cx="40" cy="20" r="6" fill="#e0af68" />
+    <circle cx="60" cy="20" r="6" fill="#9ece6a" />
+    <text x="230" y="24" fill="#565f89" font-family="monospace" font-size="12" text-anchor="middle">salahuddin@terminal: ~</text>
+    <line x1="10" y1="36" x2="450" y2="36" stroke="#222428" stroke-width="1.5" />
+  </g>
+  <text x="65" y="55" class="line" clip-path="url(#clip-0)"><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan>  </text>
+  <text x="65" y="67" class="line" clip-path="url(#clip-1)"><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan>  </text>
+  <text x="65" y="79" class="line" clip-path="url(#clip-2)"><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan>  </text>
+  <text x="65" y="91" class="line" clip-path="url(#clip-3)"><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan>  </text>
+  <text x="65" y="103" class="line" clip-path="url(#clip-4)"><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan>  </text>
+  <text x="65" y="115" class="line" clip-path="url(#clip-5)"><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan>  </text>
+  <text x="65" y="127" class="line" clip-path="url(#clip-6)"><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#565f89">#</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan>  </text>
+  <text x="65" y="139" class="line" clip-path="url(#clip-7)"><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan>  </text>
+  <text x="65" y="151" class="line" clip-path="url(#clip-8)"><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#414868">,</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#414868">,</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan>  </text>
+  <text x="65" y="163" class="line" clip-path="url(#clip-9)"><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan>  </text>
+  <text x="65" y="175" class="line" clip-path="url(#clip-10)"><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan>  </text>
+  <text x="65" y="187" class="line" clip-path="url(#clip-11)"><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan>  </text>
+  <text x="65" y="199" class="line" clip-path="url(#clip-12)"><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#414868">,</tspan><tspan fill="#414868">,</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan>  </text>
+  <text x="65" y="211" class="line" clip-path="url(#clip-13)"><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#414868">,</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#414868">,</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan>  </text>
+  <text x="65" y="223" class="line" clip-path="url(#clip-14)"><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#414868">,</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#f7768e">;</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan>  </text>
+  <text x="65" y="235" class="line" clip-path="url(#clip-15)"><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#414868">,</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#414868">,</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan>  </text>
+  <text x="65" y="247" class="line" clip-path="url(#clip-16)"><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#9d7cd8">:</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan>  </text>
+  <text x="65" y="259" class="line" clip-path="url(#clip-17)"><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan>  </text>
+  <text x="65" y="271" class="line" clip-path="url(#clip-18)"><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan>  </text>
+  <text x="65" y="283" class="line" clip-path="url(#clip-19)"><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan>  </text>
+  <text x="65" y="295" class="line" clip-path="url(#clip-20)"><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan>  </text>
+  <text x="65" y="307" class="line" clip-path="url(#clip-21)"><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#e0af68">*</tspan><tspan fill="#ff9e64">+</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#565f89">#</tspan><tspan fill="#bb9af7">S</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#9ece6a">?</tspan><tspan fill="#b4f9f8">%</tspan><tspan fill="#565f89">#</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan><tspan fill="#7aa2f7">@</tspan>  </text>
+</svg>
