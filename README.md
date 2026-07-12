@@ -11,20 +11,20 @@
 ## ⚡ Quick Dashboard
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20Something%20Great-9EEC6A?style=for-the-badge&logo=rocket" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-System%20Design-7AA2F7?style=for-the-badge&logo=visual-studio-code" alt="Focus" />
-  <img src="https://img.shields.io/badge/Energy-Coffee%20Powered-F7768E?style=for-the-badge&logo=coffeescript" alt="Energy" />
+  <img src="https://img.shields.io/badge/Status-Building%20Something%20Great-9EEC6A?style=flat-square&logo=rocket" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-System%20Design-7AA2F7?style=flat-square&logo=visual-studio-code" alt="Focus" />
+  <img src="https://img.shields.io/badge/Energy-Coffee%20Powered-F7768E?style=flat-square&logo=coffeescript" alt="Energy" />
 </p>
 
 <p align="center">
   <a href="https://github.com/salahuddingfx">
-    <img src="https://komarev.com/ghpvc/?username=salahuddingfx&label=Profile+Views&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=salahuddingfx&label=Profile+Views&color=7AA2F7&style=flat-square" alt="Profile Views" />
   </a>
   <a href="https://github.com/salahuddingfx?tab=followers">
-    <img src="https://img.shields.io/github/followers/salahuddingfx?label=Followers&style=for-the-badge&color=7AA2F7" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/salahuddingfx?label=Followers&style=flat-square&color=7AA2F7" alt="Followers" />
   </a>
   <a href="https://github.com/salahuddingfx?tab=repositories">
-    <img src="https://img.shields.io/github/stars/salahuddingfx?affiliations=OWNER&style=for-the-badge&color=9EEC6A&label=Total+Stars" alt="Total Stars" />
+    <img src="https://img.shields.io/github/stars/salahuddingfx?affiliations=OWNER&style=flat-square&color=9EEC6A&label=Total+Stars" alt="Total Stars" />
   </a>
 </p>
 
@@ -97,9 +97,9 @@
 
 <div align="center">
   <table border="3" cellpadding="8" cellspacing="0">
-    <tr>
-      <td align="center" width="50%"><strong>Frontend Engineering ✨</strong></td>
-      <td align="center" width="50%"><strong>Backend & Systems ⚙️</strong></td>
+    <tr bgcolor="#bb9af7">
+      <td align="center" width="50%"><strong><font color="#000000">Frontend Engineering ✨</font></strong></td>
+      <td align="center" width="50%"><strong><font color="#000000">Backend &amp; Systems ⚙️</font></strong></td>
     </tr>
     <tr>
       <td align="center" valign="top">
@@ -121,9 +121,9 @@
         </div>
       </td>
     </tr>
-    <tr>
-      <td align="center"><strong>Design & Creative 🎨</strong></td>
-      <td align="center"><strong>DevOps & Tools 🔧</strong></td>
+    <tr bgcolor="#ff9e64">
+      <td align="center"><strong><font color="#000000">Design &amp; Creative 🎨</font></strong></td>
+      <td align="center"><strong><font color="#000000">DevOps &amp; Tools 🔧</font></strong></td>
     </tr>
     <tr>
       <td align="center" valign="top">
@@ -153,6 +153,9 @@
 
 <div align="center">
   <table border="4" cellpadding="8" cellspacing="0">
+    <tr bgcolor="#00E5FF">
+      <th colspan="4" align="center"><strong><font color="#000000" size="4">📁 PORTFOLIO &amp; LIVE DEMOS</font></strong></th>
+    </tr>
     <!-- Row 1 -->
     <tr>
       <td width="25%" valign="top" align="center">
@@ -269,12 +272,15 @@
 ## 📈 Performance & Impact
 <div align="center">
   <table border="3" cellpadding="8" cellspacing="0">
+    <tr bgcolor="#00E5FF">
+      <th colspan="2" align="center"><strong><font color="#000000">📈 GIT PROFILE METRICS</font></strong></th>
+    </tr>
     <tr>
       <td width="50%" align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=salahuddingfx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=salahuddingfx&show_icons=true&theme=tokyonight&hide_border=false&border_radius=0&border_color=000000&count_private=true&bg_color=0d1117&text_color=c9d1d9" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center" valign="middle">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahuddingfx&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahuddingfx&theme=tokyonight&hide_border=false&border=000000&background=0d1117" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
@@ -344,6 +350,10 @@
 
 <div align="center">
   <table border="3" cellpadding="8" cellspacing="0">
+    <tr bgcolor="#FFDE4D">
+      <th align="left"><strong><font color="#000000">🎯 Goal Objective</font></strong></th>
+      <th align="right"><strong><font color="#000000">📊 Status</font></strong></th>
+    </tr>
     <tr>
       <td align="left">🚀 **Launch 5 Production Projects**</td>
       <td align="right">🟩🟩🟩🟩⬜ 80%</td>
@@ -450,13 +460,13 @@
 ## 📅 My Typical Coding Hours
 <div align="center">
   <table border="3" cellpadding="8" cellspacing="0">
-    <tr>
-      <td><strong>Monday - Friday</strong></td>
-      <td><strong>Saturday - Sunday</strong></td>
+    <tr bgcolor="#00E5FF">
+      <th align="center"><strong><font color="#000000">📅 Monday - Friday</font></strong></th>
+      <th align="center"><strong><font color="#000000">📅 Saturday - Sunday</font></strong></th>
     </tr>
     <tr>
-      <td><code>09:00 AM - 02:00 AM</code> (Hyperfocus)</td>
-      <td><code>10:00 AM - 12:00 AM</code> (Creative Mode)</td>
+      <td align="center"><code>09:00 AM - 02:00 AM</code> (Hyperfocus)</td>
+      <td align="center"><code>10:00 AM - 12:00 AM</code> (Creative Mode)</td>
     </tr>
   </table>
 </div>
