@@ -19,14 +19,26 @@
       }
       .mono-text {
         font-family: 'Space Mono', monospace;
-        font-size: 13px;
+        font-size: 12px;
         font-weight: bold;
-        fill: #000000;
       }
       .window-title {
         font-family: 'Space Grotesk', sans-serif;
         font-size: 12px;
         font-weight: bold;
+        fill: #000000;
+      }
+      .sticker-text {
+        font-family: 'Space Grotesk', sans-serif;
+        font-size: 11px;
+        font-weight: 900;
+        fill: #FFFFFF;
+        letter-spacing: 1px;
+      }
+      .mini-badge-text {
+        font-family: 'Space Grotesk', sans-serif;
+        font-size: 12px;
+        font-weight: 900;
         fill: #000000;
       }
     </style>
@@ -44,43 +56,64 @@
   </pattern>
   <rect x="5" y="5" width="870" height="220" fill="url(#dotGrid)" rx="6" pointer-events="none" />
 
+  <!-- Tilted Sticker (Top Left) -->
+  <g transform="rotate(-6, 80, 15)">
+    <rect x="42" y="5" width="125" height="26" fill="#000000" rx="4" />
+    <rect x="38" y="1" width="125" height="26" fill="#FF007F" stroke="#000000" stroke-width="2.2" rx="4" />
+    <text x="100" y="18" class="sticker-text" text-anchor="middle">CREATIVE MIND</text>
+  </g>
+
   <!-- Name -->
-  <text x="40" y="85" class="title-text">SALAH UDDIN KADER</text>
+  <text x="40" y="90" class="title-text">SALAH UDDIN KADER</text>
 
-  <!-- Badge / Subtitle Shadow -->
-  <rect x="44" y="121" width="455" height="38" fill="#000000" rx="4" />
-  <!-- Badge / Subtitle Main -->
-  <rect x="40" y="117" width="455" height="38" fill="#FFFFFF" stroke="#000000" stroke-width="3" rx="4" />
-  <text x="52" y="141" class="badge-text">FULL STACK AI ENGINEER // CREATIVE DEVELOPER</text>
+  <!-- Subtitle Badge Shadow -->
+  <rect x="44" y="124" width="455" height="38" fill="#000000" rx="4" />
+  <!-- Subtitle Badge Main -->
+  <rect x="40" y="120" width="455" height="38" fill="#FFFFFF" stroke="#000000" stroke-width="3" rx="4" />
+  <text x="52" y="144" class="badge-text">FULL STACK AI ENGINEER // CREATIVE DEVELOPER</text>
 
-  <!-- Graphic Accents / Brutalist Crosses & Stars -->
-  <!-- Star 1 -->
-  <path d="M 40 180 L 45 195 L 60 200 L 45 205 L 40 220 L 35 205 L 20 200 L 35 195 Z" fill="#00E5FF" stroke="#000000" stroke-width="2.5" />
-  <!-- Star 2 -->
-  <path d="M 520 70 L 524 82 L 536 86 L 524 90 L 520 102 L 516 90 L 504 86 L 516 82 Z" fill="#f7768e" stroke="#000000" stroke-width="2.5" />
+  <!-- Mini stack badges below subtitle -->
+  <!-- MERN Badge -->
+  <rect x="44" y="179" width="75" height="28" fill="#000000" rx="4" />
+  <rect x="40" y="175" width="75" height="28" fill="#bb9af7" stroke="#000000" stroke-width="2.2" rx="4" />
+  <text x="775" y="193" class="mini-badge-text" text-anchor="middle" transform="translate(-700, 0)">MERN</text>
+
+  <!-- GSAP Badge -->
+  <rect x="134" y="179" width="75" height="28" fill="#000000" rx="4" />
+  <rect x="130" y="175" width="75" height="28" fill="#39FF14" stroke="#000000" stroke-width="2.2" rx="4" />
+  <text x="865" y="193" class="mini-badge-text" text-anchor="middle" transform="translate(-700, 0)">GSAP</text>
+
+  <!-- VITE Badge -->
+  <rect x="224" y="179" width="75" height="28" fill="#000000" rx="4" />
+  <rect x="220" y="175" width="75" height="28" fill="#00E5FF" stroke="#000000" stroke-width="2.2" rx="4" />
+  <text x="955" y="193" class="mini-badge-text" text-anchor="middle" transform="translate(-700, 0)">VITE</text>
+
+  <!-- Graphic Stars & Accents -->
+  <path d="M 525 65 L 528 75 L 538 78 L 528 81 L 525 91 L 522 81 L 512 78 L 522 75 Z" fill="#00E5FF" stroke="#000000" stroke-width="2" />
+  <path d="M 335 180 L 337 186 L 343 188 L 337 190 L 335 196 L 333 190 L 327 188 L 333 186 Z" fill="#FF007F" stroke="#000000" stroke-width="1.8" />
 
   <!-- Terminal Window Widget -->
   <!-- Terminal Window Shadow -->
-  <rect x="578" y="44" width="280" height="165" fill="#000000" rx="6" />
+  <rect x="568" y="42" width="290" height="170" fill="#000000" rx="6" />
   <!-- Terminal Window Body -->
-  <rect x="570" y="36" width="280" height="165" fill="#FFFFFF" stroke="#000000" stroke-width="4.5" rx="6" />
+  <rect x="560" y="34" width="290" height="170" fill="#0d1117" stroke="#000000" stroke-width="4.5" rx="6" />
   <!-- Terminal Header -->
-  <rect x="570" y="36" width="280" height="32" fill="#bb9af7" stroke="#000000" stroke-width="4.5" rx="6" />
-  <!-- Terminal Header Cover to prevent overlapping rounded corners -->
-  <rect x="572.5" y="55" width="275" height="10" fill="#FFFFFF" />
+  <rect x="560" y="34" width="290" height="32" fill="#00E5FF" stroke="#000000" stroke-width="4.5" rx="6" />
+  <!-- Cover rounded corner overlap of header -->
+  <rect x="562.5" y="55" width="285" height="10" fill="#0d1117" />
   
   <!-- Window Controls -->
-  <circle cx="590" cy="52" r="5" fill="#f7768e" stroke="#000000" stroke-width="1.8" />
-  <circle cx="605" cy="52" r="5" fill="#e0af68" stroke="#000000" stroke-width="1.8" />
-  <circle cx="620" cy="52" r="5" fill="#9ece6a" stroke="#000000" stroke-width="1.8" />
-  <text x="710" y="56" class="window-title" text-anchor="middle">salahuddin@terminal: ~</text>
+  <circle cx="580" cy="50" r="5" fill="#f7768e" stroke="#000000" stroke-width="1.8" />
+  <circle cx="595" cy="50" r="5" fill="#e0af68" stroke="#000000" stroke-width="1.8" />
+  <circle cx="610" cy="50" r="5" fill="#9ece6a" stroke="#000000" stroke-width="1.8" />
+  <text x="715" y="54" class="window-title" text-anchor="middle">salahuddin@terminal: ~</text>
 
-  <!-- Terminal Content -->
-  <g transform="translate(585, 90)">
-    <text x="0" y="0" class="mono-text">> loc: Cox's Bazar, BD 🌴</text>
-    <text x="0" y="24" class="mono-text">> status: building systems</text>
-    <text x="0" y="48" class="mono-text">> stack: Laravel + MERN</text>
-    <text x="0" y="72" class="mono-text">> focus: AI Agent UX</text>
-    <text x="0" y="96" class="mono-text">> site: salahuddin.codes</text>
+  <!-- Terminal Content with Colored Text -->
+  <g transform="translate(578, 88)">
+    <text x="0" y="0" class="mono-text" fill="#9ece6a">> loc: Cox's Bazar, BD 🌴</text>
+    <text x="0" y="24" class="mono-text" fill="#7aa2f7">> status: active &amp; designing</text>
+    <text x="0" y="48" class="mono-text" fill="#bb9af7">> stack: Laravel + MERN</text>
+    <text x="0" y="72" class="mono-text" fill="#f7768e">> focus: AI Agent UI/UX</text>
+    <text x="0" y="96" class="mono-text" fill="#e0af68">> site: salahuddin.codes</text>
   </g>
 </svg>
