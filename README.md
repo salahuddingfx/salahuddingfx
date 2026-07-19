@@ -8,7 +8,6 @@
 
 ---
 
-
 ## ⚡ Quick Dashboard
 
 <p align="center">
